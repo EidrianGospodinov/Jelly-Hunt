@@ -1122,3 +1122,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.04-11.52.31:092][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
 [2024.04.04-11.52.31:096][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2024.04.04-11.52.31:099][ 44]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.04.04-11.54.44:366][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.04-11.54.44:376][664]LogSavePackage: Moving '../../../../../../Users/w1896301/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Minimal_Default1DA67619499846BF15EA7FA1B94A9AA0.tmp' to '../../../../../../Users/w1896301/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.04.04-11.54.44:382][664]LogFileHelpers: Saving map 'Minimal_Default' took 0.020
+[2024.04.04-11.54.44:387][664]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.04.04-11.54.44:387][664]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

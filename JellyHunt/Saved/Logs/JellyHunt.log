@@ -920,7 +920,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.21-09.46.15:005][323]AssetCheck: New page: Asset Save: Patricks_Room
 [2024.04.21-09.46.15:005][323]LogContentValidation: Display: Validating World /Game/Maps/Patricks_Room.Patricks_Room
 [2024.04.21-09.46.16:030][446]LogSlate: Took 0.003411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2024.04.21-10.27.40:732][932]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5317549d-d8ac-4c73-8554-aba5a76b9398}.
-[2024.04.21-10.27.40:732][932]LogAudioMixer: Resetting audio stream to device id 
-[2024.04.21-10.27.40:738][932]LogAudioMixer: Display: 0: FrontLeft
-[2024.04.21-10.27.40:739][932]LogAudioMixer: Display: 1: FrontRight

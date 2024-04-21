@@ -1173,8 +1173,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.21-10.17.48:720][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.04.21-10.17.48:725][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2024.04.21-10.17.48:807][166]LogPlayLevel: Display: Destroying online subsystem :Context_5
-[2024.04.21-10.20.11:880][777]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
-[2024.04.21-10.27.40:878][326]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5317549d-d8ac-4c73-8554-aba5a76b9398}.
-[2024.04.21-10.27.40:879][326]LogAudioMixer: Resetting audio stream to device id 
-[2024.04.21-10.27.40:902][326]LogAudioMixer: Display: 0: FrontLeft
-[2024.04.21-10.27.40:902][326]LogAudioMixer: Display: 1: FrontRight

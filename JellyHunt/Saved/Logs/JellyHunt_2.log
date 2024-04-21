@@ -933,6 +933,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.21-09.50.48:933][482]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.04.21-09.50.48:933][482]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
 [2024.04.21-09.50.48:933][482]LogFileHelpers: Loading map 'JellyGrounds' took 0.127
+<<<<<<< HEAD
 [2024.04.21-09.57.28:663][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2024.04.21-09.57.28:685][173]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/JellyGrounds.JellyGrounds
 [2024.04.21-09.57.28:685][173]Cmd: MAP LOAD FILE="../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Maps/JellyGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
@@ -1173,3 +1174,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.21-10.17.48:720][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.04.21-10.17.48:725][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2024.04.21-10.17.48:807][166]LogPlayLevel: Display: Destroying online subsystem :Context_5
+=======
+>>>>>>> parent of 3b331b6 (.)

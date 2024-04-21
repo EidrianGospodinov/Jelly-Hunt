@@ -933,3 +933,191 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.21-09.50.48:933][482]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.04.21-09.50.48:933][482]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
 [2024.04.21-09.50.48:933][482]LogFileHelpers: Loading map 'JellyGrounds' took 0.127
+[2024.04.21-09.57.28:663][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.21-09.57.28:685][173]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/JellyGrounds.JellyGrounds
+[2024.04.21-09.57.28:685][173]Cmd: MAP LOAD FILE="../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Maps/JellyGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-09.57.28:685][173]LightingResults: New page: Lighting Build
+[2024.04.21-09.57.28:685][173]LoadErrors: New page: Loading map: JellyGrounds.umap
+[2024.04.21-09.57.28:687][173]LogWorld: UWorld::CleanupWorld for JellyGrounds, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.57.28:687][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.57.28:688][173]MapCheck: New page: Map Check
+[2024.04.21-09.57.28:688][173]LightingResults: New page: Lighting Build
+[2024.04.21-09.57.28:694][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.57.28:811][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.21-09.57.30:502][173]LogAudio: Display: Audio Device (ID: 1) registered with world 'JellyGrounds'.
+[2024.04.21-09.57.30:502][173]LogAIModule: Creating AISystem for world JellyGrounds
+[2024.04.21-09.57.30:560][173]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-09.57.30:609][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.21-09.57.30:611][173]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-09.57.30:611][173]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2024.04.21-09.57.30:611][173]LogFileHelpers: Loading map 'JellyGrounds' took 1.926
+[2024.04.21-09.58.08:356][530]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.21-09.58.08:360][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.58.08:360][530]PIE: New page: PIE session: JellyGrounds (21 Apr 2024, 11:58:08)
+[2024.04.21-09.58.08:361][530]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.04.21-09.58.08:361][530]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.04.21-09.58.08:361][530]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JellyGrounds
+[2024.04.21-09.58.09:844][530]LogPlayLevel: PIE: StaticDuplicateObject took: (1.482355s)
+[2024.04.21-09.58.09:844][530]LogAIModule: Creating AISystem for world JellyGrounds
+[2024.04.21-09.58.09:845][530]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2024.04.21-09.58.09:845][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JellyGrounds.JellyGrounds to /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds (1.483246s)
+[2024.04.21-09.58.09:850][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.21-09.58.09:851][530]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.21-09.58.09:851][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.58.09:851][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.58.09:851][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.58.09:851][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.58.09:851][530]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.21-09.58.09:853][530]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.21-09.58.09:853][530]LogAudioMixer: Display: 1: FrontRight
+[2024.04.21-09.58.09:859][530]LogAudioMixer: Display: Using Audio Device Headphones (AW920H Game)
+[2024.04.21-09.58.09:859][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.58.09:859][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.58.09:859][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.58.09:859][530]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.21-09.58.09:859][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.21-09.58.09:859][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.21-09.58.09:861][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.21-09.58.09:861][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.21-09.58.09:861][530]LogInit: FAudioDevice initialized.
+[2024.04.21-09.58.09:861][530]LogAudio: Display: Audio Device (ID: 2) registered with world 'JellyGrounds'.
+[2024.04.21-09.58.09:870][530]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.21-09.58.09:905][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds up for play (max tick rate 0) at 2024.04.21-10.58.09
+[2024.04.21-09.58.09:906][530]LogWorld: Bringing up level for play took: 0.035134
+[2024.04.21-09.58.09:906][530]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2024.04.21-09.58.09:910][530]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2024.04.21-09.58.09:912][530]PIE: Server logged in
+[2024.04.21-09.58.09:913][530]PIE: Play in editor total start time 1.554 seconds.
+[2024.04.21-09.58.13:893][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.58.13:893][997]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JellyGrounds
+[2024.04.21-09.58.13:893][997]LogWorld: UWorld::CleanupWorld for JellyGrounds, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.58.13:894][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.58.13:905][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.58.13:906][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.58.13:911][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.58.13:920][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.21-09.58.13:922][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.21-09.58.13:924][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.58.13:945][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.21-09.58.14:031][999]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.04.21-09.58.51:942][614]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.21-09.58.51:945][614]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.21-09.58.54:889][939]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.21-10.01.39:671][866]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.21-10.01.39:675][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-10.01.39:675][866]PIE: New page: PIE session: JellyGrounds (21 Apr 2024, 12:01:39)
+[2024.04.21-10.01.39:703][866]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JellyGrounds
+[2024.04.21-10.01.40:778][866]LogPlayLevel: PIE: StaticDuplicateObject took: (1.074898s)
+[2024.04.21-10.01.40:778][866]LogAIModule: Creating AISystem for world JellyGrounds
+[2024.04.21-10.01.40:778][866]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2024.04.21-10.01.40:778][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JellyGrounds.JellyGrounds to /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds (1.075839s)
+[2024.04.21-10.01.40:782][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.21-10.01.40:783][866]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.21-10.01.40:783][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-10.01.40:783][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-10.01.40:783][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-10.01.40:783][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-10.01.40:783][866]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.21-10.01.40:784][866]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.21-10.01.40:784][866]LogAudioMixer: Display: 1: FrontRight
+[2024.04.21-10.01.40:790][866]LogAudioMixer: Display: Using Audio Device Headphones (AW920H Game)
+[2024.04.21-10.01.40:790][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-10.01.40:790][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-10.01.40:790][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-10.01.40:790][866]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.21-10.01.40:790][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.21-10.01.40:790][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.21-10.01.40:792][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.21-10.01.40:792][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.21-10.01.40:792][866]LogInit: FAudioDevice initialized.
+[2024.04.21-10.01.40:792][866]LogAudio: Display: Audio Device (ID: 3) registered with world 'JellyGrounds'.
+[2024.04.21-10.01.40:799][866]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.21-10.01.40:834][866]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds up for play (max tick rate 0) at 2024.04.21-11.01.40
+[2024.04.21-10.01.40:834][866]LogWorld: Bringing up level for play took: 0.034377
+[2024.04.21-10.01.40:834][866]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2024.04.21-10.01.40:837][866]PIE: Server logged in
+[2024.04.21-10.01.40:838][866]PIE: Play in editor total start time 1.163 seconds.
+[2024.04.21-10.01.45:145][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.01.45:145][373]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JellyGrounds
+[2024.04.21-10.01.45:145][373]LogWorld: UWorld::CleanupWorld for JellyGrounds, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-10.01.45:146][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.01.45:159][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-10.01.45:160][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.01.45:177][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-10.01.45:177][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.21-10.01.45:178][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.21-10.01.45:179][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.01.45:190][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.21-10.01.45:265][374]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.04.21-10.03.17:971][ 99]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.21-10.03.17:974][ 99]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.21-10.03.38:212][579]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.21-10.04.05:480][505]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.21-10.04.05:485][505]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.21-10.04.06:321][603]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.21-10.04.06:324][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-10.04.06:324][603]PIE: New page: PIE session: JellyGrounds (21 Apr 2024, 12:04:06)
+[2024.04.21-10.04.06:373][603]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JellyGrounds
+[2024.04.21-10.04.07:228][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.854450s)
+[2024.04.21-10.04.07:228][603]LogAIModule: Creating AISystem for world JellyGrounds
+[2024.04.21-10.04.07:228][603]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2024.04.21-10.04.07:228][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JellyGrounds.JellyGrounds to /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds (0.855354s)
+[2024.04.21-10.04.07:233][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.21-10.04.07:233][603]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.21-10.04.07:234][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-10.04.07:234][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-10.04.07:234][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-10.04.07:234][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-10.04.07:234][603]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.21-10.04.07:236][603]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.21-10.04.07:236][603]LogAudioMixer: Display: 1: FrontRight
+[2024.04.21-10.04.07:241][603]LogAudioMixer: Display: Using Audio Device Headphones (AW920H Game)
+[2024.04.21-10.04.07:241][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-10.04.07:241][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-10.04.07:241][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-10.04.07:241][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.21-10.04.07:241][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.21-10.04.07:241][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.21-10.04.07:242][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.21-10.04.07:242][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.21-10.04.07:242][603]LogInit: FAudioDevice initialized.
+[2024.04.21-10.04.07:242][603]LogAudio: Display: Audio Device (ID: 4) registered with world 'JellyGrounds'.
+[2024.04.21-10.04.07:248][603]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.21-10.04.07:284][603]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds up for play (max tick rate 0) at 2024.04.21-11.04.07
+[2024.04.21-10.04.07:284][603]LogWorld: Bringing up level for play took: 0.035510
+[2024.04.21-10.04.07:284][603]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2024.04.21-10.04.07:286][603]PIE: Server logged in
+[2024.04.21-10.04.07:287][603]PIE: Play in editor total start time 0.963 seconds.
+[2024.04.21-10.04.22:834][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.04.22:834][464]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JellyGrounds
+[2024.04.21-10.04.22:834][464]LogWorld: UWorld::CleanupWorld for JellyGrounds, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-10.04.22:835][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.04.22:845][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-10.04.22:846][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.04.22:863][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-10.04.22:863][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.21-10.04.22:864][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.21-10.04.22:865][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.04.22:873][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.21-10.04.22:946][465]LogPlayLevel: Display: Destroying online subsystem :Context_4

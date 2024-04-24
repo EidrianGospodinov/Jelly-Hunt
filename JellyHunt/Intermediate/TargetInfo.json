@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JellyHunt",
+			"Path": "C:\\Users\\edgos\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHunt.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JellyHuntEditor",
+			"Path": "C:\\Users\\edgos\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHuntEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JellyHunt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{37E0DD4D-9AF5-42D9-A171-B0574B6FFBEB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JellyHunt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JellyHuntEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3F7C52EB-3B7E-4401-8B61-E70E98000DB4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JellyHunt">
+      <UniqueIdentifier>{A6402CFF-B10F-4001-BA5B-39010811F1F2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JellyHunt\FindRandomLocation.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\FindRandomLocation.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\JellyHunt\JellyHunt.Build.cs">
+      <Filter>Source\JellyHunt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JellyHunt\JellyHunt.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\JellyHunt.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JellyHunt\NPC.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\NPC.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JellyHunt\NPC_AIController.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\NPC_AIController.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\JellyHunt\blackboardKeys.h" />
+  </ItemGroup>
+</Project>

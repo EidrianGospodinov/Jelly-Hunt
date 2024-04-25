@@ -1228,3 +1228,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.25-12.45.50:225][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2024.04.25-12.45.50:307][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2024.04.25-12.45.58:457][ 12]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.25-13.03.08:362][457]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gamemodeg.Gamemodeg
+[2024.04.25-13.03.08:408][457]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2024.04.25-13.03.16:766][ 99]LogSlate: Window 'Gamemodeg' being destroyed
+[2024.04.25-13.03.16:772][ 99]LogSlate: Window 'Gamemodeg' being destroyed
+[2024.04.25-13.03.16:773][ 99]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-13.03.16:773][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.04.30:524][364]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.25-13.04.33:693][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gamemodeg.Gamemodeg
+[2024.04.25-13.04.39:383][328]LogSlate: Window 'Gamemodeg' being destroyed
+[2024.04.25-13.04.39:392][328]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-13.04.39:392][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.04.39:423][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gamemodeg.Gamemodeg
+[2024.04.25-13.04.39:633][328]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.25-13.04.42:375][640]LogRenderer: Reallocating scene render targets to support 1208x940 Format 10 NumSamples 1 (Frame:1).
+[2024.04.25-13.04.45:644][ 27]LogSlate: Window 'Gamemodeg' being destroyed
+[2024.04.25-13.04.45:651][ 27]LogSlate: Window 'Gamemodeg' being destroyed
+[2024.04.25-13.04.45:653][ 27]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-13.04.45:653][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.06.50:385][486]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.25-13.06.50:387][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-13.06.50:387][486]PIE: New page: PIE session: Patricks_Room (25 Apr 2024, 15:06:50)
+[2024.04.25-13.06.50:387][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.04.25-13.06.50:389][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002025s)
+[2024.04.25-13.06.50:390][486]LogAIModule: Creating AISystem for world Patricks_Room
+[2024.04.25-13.06.50:390][486]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2024.04.25-13.06.50:390][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Patricks_Room.Patricks_Room to /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room (0.002683s)
+[2024.04.25-13.06.50:403][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.25-13.06.50:404][486]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-13.06.50:404][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-13.06.50:404][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-13.06.50:404][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-13.06.50:404][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-13.06.50:404][486]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.25-13.06.50:406][486]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.25-13.06.50:406][486]LogAudioMixer: Display: 1: FrontRight
+[2024.04.25-13.06.50:415][486]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.04.25-13.06.50:415][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-13.06.50:415][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-13.06.50:415][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-13.06.50:416][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.25-13.06.50:416][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.25-13.06.50:416][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.25-13.06.50:416][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.25-13.06.50:416][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.25-13.06.50:416][486]LogInit: FAudioDevice initialized.
+[2024.04.25-13.06.50:416][486]LogAudio: Display: Audio Device (ID: 7) registered with world 'Patricks_Room'.
+[2024.04.25-13.06.50:425][486]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.25-13.06.50:426][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room up for play (max tick rate 0) at 2024.04.25-14.06.50
+[2024.04.25-13.06.50:426][486]LogWorld: Bringing up level for play took: 0.000672
+[2024.04.25-13.06.50:426][486]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2024.04.25-13.06.50:429][486]PIE: Server logged in
+[2024.04.25-13.06.50:429][486]PIE: Play in editor total start time 0.042 seconds.
+[2024.04.25-13.06.56:170][ 44]Cmd: SELECT NONE
+[2024.04.25-13.08.34:393][732]Cmd: SELECT NONE
+[2024.04.25-13.08.35:379][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-13.08.35:379][836]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.04.25-13.08.35:379][836]LogWorld: UWorld::CleanupWorld for Patricks_Room, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-13.08.35:380][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.08.35:393][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-13.08.35:394][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.08.35:406][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.25-13.08.35:406][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.25-13.08.35:407][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.25-13.08.35:408][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-13.08.35:410][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.25-13.08.35:451][841]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.25-13.20.05:341][826]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WB_HUD.WB_HUD
+[2024.04.25-13.20.55:246][ 63]LogSlate: Window 'WB_HUD' being destroyed
+[2024.04.25-13.20.55:256][ 63]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-13.20.55:256][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.20.55:261][ 63]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-13.20.55:261][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.21.01:235][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.25-13.21.01:236][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Patricks_Room' took 0.037
+[2024.04.25-13.21.01:236][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widgets/WB_HUD] ([2] browsable assets)...
+[2024.04.25-13.21.01:237][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WB_HUD]
+[2024.04.25-13.21.01:249][713]LogSavePackage: Moving '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/WB_HUD_Auto1987D966C4F22DAD50CDF608CD3DC6A4B.tmp' to '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Autosaves/Game/Blueprints/Widgets/WB_HUD_Auto1.uasset'
+[2024.04.25-13.21.01:249][713]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.04.25-13.21.06:140][272]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.25-13.21.06:147][272]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.25-13.21.08:793][552]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.25-13.23.27:625][369]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.25-13.23.27:632][369]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.25-13.23.28:200][435]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.25-13.23.28:203][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-13.23.28:203][435]PIE: New page: PIE session: Patricks_Room (25 Apr 2024, 15:23:28)
+[2024.04.25-13.23.28:203][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.04.25-13.23.28:205][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002206s)
+[2024.04.25-13.23.28:206][435]LogAIModule: Creating AISystem for world Patricks_Room
+[2024.04.25-13.23.28:206][435]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2024.04.25-13.23.28:206][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Patricks_Room.Patricks_Room to /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room (0.002886s)
+[2024.04.25-13.23.28:254][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.04.25-13.23.28:258][435]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.25-13.23.28:258][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-13.23.28:258][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-13.23.28:258][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-13.23.28:258][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-13.23.28:258][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.25-13.23.28:258][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.25-13.23.28:258][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.25-13.23.28:258][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-13.23.28:259][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-13.23.28:259][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-13.23.28:259][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-13.23.28:259][435]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.25-13.23.28:261][435]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.25-13.23.28:261][435]LogAudioMixer: Display: 1: FrontRight
+[2024.04.25-13.23.28:268][435]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.04.25-13.23.28:268][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-13.23.28:268][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-13.23.28:268][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-13.23.28:269][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.25-13.23.28:269][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.25-13.23.28:269][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.25-13.23.28:270][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.25-13.23.28:270][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.25-13.23.28:270][435]LogInit: FAudioDevice initialized.
+[2024.04.25-13.23.28:270][435]LogAudio: Display: Audio Device (ID: 8) registered with world 'Patricks_Room'.
+[2024.04.25-13.23.28:280][435]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.25-13.23.28:281][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room up for play (max tick rate 0) at 2024.04.25-14.23.28
+[2024.04.25-13.23.28:281][435]LogWorld: Bringing up level for play took: 0.000640
+[2024.04.25-13.23.28:282][435]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2024.04.25-13.23.28:284][435]PIE: Server logged in
+[2024.04.25-13.23.28:285][435]PIE: Play in editor total start time 0.083 seconds.
+[2024.04.25-13.23.39:010][718]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (patrick_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2024.04.25-13.23.39:160][736]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (patrick_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2024.04.25-13.23.40:037][841]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (patrick_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2024.04.25-13.23.40:206][861]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (patrick_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2024.04.25-13.23.40:397][884]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (patrick_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2024.04.25-13.23.40:597][908]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (patrick_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2024.04.25-13.23.43:041][194]LogPackageName: SearchForPackageOnDisk took   0.060s, but failed to resolve JellyGrounds.umap.
+[2024.04.25-13.23.43:106][195]LogPackageName: SearchForPackageOnDisk took   0.061s, but failed to resolve JellyGrounds.umap.
+[2024.04.25-13.23.43:106][195]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default
+[2024.04.25-13.23.43:106][195]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/StarterContent/Maps/Minimal_Default
+[2024.04.25-13.23.43:106][195]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/StarterContent/Maps/Minimal_Default'. Shutting down PIE.
+[2024.04.25-13.23.43:107][195]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/StarterContent/Maps/Minimal_Default'. Shutting down PIE.
+[2024.04.25-13.23.43:107][195]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/StarterContent/Maps/Minimal_Default
+[2024.04.25-13.23.43:107][195]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/StarterContent/Maps/Minimal_Default'. Shutting down PIE.
+[2024.04.25-13.23.43:107][195]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/StarterContent/Maps/Minimal_Default'. Shutting down PIE.
+[2024.04.25-13.23.43:140][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-13.23.43:140][195]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.04.25-13.23.43:141][195]LogWorld: UWorld::CleanupWorld for Patricks_Room, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-13.23.43:141][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.23.43:153][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-13.23.43:155][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-13.23.43:163][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-13.23.43:165][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.25-13.23.43:166][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.25-13.23.43:178][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.25-13.23.43:217][195]LogSlate: Took 0.000475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.25-13.23.43:225][196]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.04.25-13.23.45:229][423]LogSlate: Window 'Message Log' being destroyed
+[2024.04.25-13.23.45:235][423]LogSlate: Window 'Message Log' being destroyed

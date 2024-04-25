@@ -12,6 +12,8 @@ UFindRandomLocation::UFindRandomLocation(FObjectInitializer const& objectInitial
 {
 	NodeName = TEXT("Find Random Location");
 	UE_LOG(LogTemp, Warning, TEXT("NodeName"));
+
+	
 }
 
 EBTNodeResult::Type UFindRandomLocation::ExecuteTask(UBehaviorTreeComponent& ownerComp, uint8* nodeMemory)
@@ -24,6 +26,8 @@ EBTNodeResult::Type UFindRandomLocation::ExecuteTask(UBehaviorTreeComponent& own
 	//obtain npc location to use as an orgin
 	FVector const orgin = npc->GetActorLocation();
 	FNavLocation loc;
+	
+	
 
 
 	//get nav system and generate a random location

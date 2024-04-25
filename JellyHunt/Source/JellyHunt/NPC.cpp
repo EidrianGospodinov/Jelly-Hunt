@@ -7,11 +7,17 @@
 #include "Materials/MaterialInstance.h"
 #include "GameFramework/PlayerController.h"
 
+
+
+
 // Sets default values
 ANPC::ANPC()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+
+
+	
 
 }
 
@@ -32,7 +38,8 @@ void ANPC::BeginPlay()
 void ANPC::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
+	
+	
 }
 
 // Called to bind functionality to input

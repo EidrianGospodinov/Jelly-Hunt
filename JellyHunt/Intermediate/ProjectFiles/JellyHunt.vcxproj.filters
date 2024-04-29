@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\JellyHunt.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{37E0DD4D-9AF5-42D9-A171-B0574B6FFBEB}</UniqueIdentifier>
+      <UniqueIdentifier>{0570DF6E-9558-4A02-83CE-8046FD8AC953}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\JellyHunt.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\JellyHuntEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\Temp.txt" />
     <Filter Include="Config">
-      <UniqueIdentifier>{3F7C52EB-3B7E-4401-8B61-E70E98000DB4}</UniqueIdentifier>
+      <UniqueIdentifier>{03DF83EC-0DEF-4790-80E0-0279C8D566AF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,8 +28,17 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\JellyHunt">
-      <UniqueIdentifier>{A6402CFF-B10F-4001-BA5B-39010811F1F2}</UniqueIdentifier>
+      <UniqueIdentifier>{FC3C34E0-E116-4FB2-9B67-A3A98F285D69}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\JellyHunt\blackboardKeys.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JellyHunt\FindPlayerLocation.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\FindPlayerLocation.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\JellyHunt\FindRandomLocation.cpp">
       <Filter>Source\JellyHunt</Filter>
     </ClCompile>
@@ -56,8 +66,23 @@
     <ClInclude Include="..\..\Source\JellyHunt\NPC_AIController.h">
       <Filter>Source\JellyHunt</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\JellyHunt\blackboardKeys.h" />
+    <ClCompile Include="..\..\Source\JellyHunt\PlayerCharacter.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\PlayerCharacter.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JellyHunt\PlayerLocationBP.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\PlayerLocationBP.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JellyHunt\playerLocPawn.cpp">
+      <Filter>Source\JellyHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JellyHunt\playerLocPawn.h">
+      <Filter>Source\JellyHunt</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

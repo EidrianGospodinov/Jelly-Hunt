@@ -20,7 +20,7 @@ EBTNodeResult::Type UFindRandomLocation::ExecuteTask(UBehaviorTreeComponent& own
 {
 	UE_LOG(LogTemp, Warning, TEXT("Execute task"));
 	//get ai contrller and its NPC
-	auto const cont = Cast<ANPC_AIController>(ownerComp.GetAIOwner());
+	auto const cont = Cast<ANPC_AIController>(ownerComp.GetAIOwner()); 
 	auto const npc = cont->GetPawn();
 
 	//obtain npc location to use as an orgin

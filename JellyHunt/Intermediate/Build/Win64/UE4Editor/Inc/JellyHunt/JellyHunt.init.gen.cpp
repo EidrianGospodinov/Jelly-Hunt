@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeJellyHunt_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x06BD62C7,
-				0xA70FE925,
+				0xE035050B,
+				0x08F0032F,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

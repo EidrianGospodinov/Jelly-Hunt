@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "AIController.h"
+#include "Perception/AIPerceptionTypes.h"
 #include "NPC_AIController.generated.h"
 
 /**
@@ -15,6 +16,7 @@ class JELLYHUNT_API ANPC_AIController : public AAIController
 	GENERATED_BODY()
 	
 	public:
+		
 
 	ANPC_AIController(FObjectInitializer const& objectInitializer = FObjectInitializer::Get());
 	void BeginPlay() override;
@@ -28,4 +30,14 @@ private:
 	class UBehaviorTree* _behaviorTree;
 
 	class UBlackboardComponent* blackboard;
+private:
+	//perception
+	class UAISenseConfig_Sight* _sightConfig;
+
+	void OnTargetDetected(AActor* actor, FAIStimulus const stimulus);
+
+	UFUNCTION()
+		void _onUpdated(TArray<AActor*>const& _updatedActors);
+
+		void _setupPerceptionSystem();
 };

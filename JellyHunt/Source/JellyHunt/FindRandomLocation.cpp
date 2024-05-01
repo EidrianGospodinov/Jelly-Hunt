@@ -11,14 +11,14 @@
 UFindRandomLocation::UFindRandomLocation(FObjectInitializer const& objectInitializer)
 {
 	NodeName = TEXT("Find Random Location");
-	UE_LOG(LogTemp, Warning, TEXT("NodeName"));
+	//UE_LOG(LogTemp, Warning, TEXT("NodeName"));
 
 	
 }
 
 EBTNodeResult::Type UFindRandomLocation::ExecuteTask(UBehaviorTreeComponent& ownerComp, uint8* nodeMemory)
 {
-	UE_LOG(LogTemp, Warning, TEXT("Execute task"));
+	//UE_LOG(LogTemp, Warning, TEXT("Execute task"));
 	//get ai contrller and its NPC
 	auto const cont = Cast<ANPC_AIController>(ownerComp.GetAIOwner()); 
 	auto const npc = cont->GetPawn();
@@ -34,7 +34,7 @@ EBTNodeResult::Type UFindRandomLocation::ExecuteTask(UBehaviorTreeComponent& own
 	UNavigationSystemV1* const navSys = UNavigationSystemV1::GetCurrent(GetWorld());
 	if (navSys->GetRandomPointInNavigableRadius(orgin, searchRadius, loc, nullptr)) {
 
-		UE_LOG(LogTemp, Warning, TEXT("success"));
+		//UE_LOG(LogTemp, Warning, TEXT("success"));
 		cont->getBlackboard()->SetValueAsVector(bb_keys::_targetLocation, loc.Location);
 	}
 	//finish successfully

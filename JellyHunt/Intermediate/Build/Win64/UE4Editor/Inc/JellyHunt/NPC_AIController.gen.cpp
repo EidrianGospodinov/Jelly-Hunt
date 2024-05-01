@@ -18,6 +18,7 @@ void EmptyLinkFunctionForGeneratedCodeNPC_AIController() {}
 	AIMODULE_API UClass* Z_Construct_UClass_AAIController();
 	UPackage* Z_Construct_UPackage__Script_JellyHunt();
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
+	AIMODULE_API UScriptStruct* Z_Construct_UScriptStruct_FAIStimulus();
 	AIMODULE_API UClass* Z_Construct_UClass_UBehaviorTreeComponent_NoRegister();
 	AIMODULE_API UClass* Z_Construct_UClass_UBehaviorTree_NoRegister();
 // End Cross Module References
@@ -29,11 +30,21 @@ void EmptyLinkFunctionForGeneratedCodeNPC_AIController() {}
 		P_THIS->_onUpdated(Z_Param_Out__updatedActors);
 		P_NATIVE_END;
 	}
+	DEFINE_FUNCTION(ANPC_AIController::execon_target_detected)
+	{
+		P_GET_OBJECT(AActor,Z_Param_actor);
+		P_GET_STRUCT(FAIStimulus,Z_Param_stimulus);
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->on_target_detected(Z_Param_actor,Z_Param_stimulus);
+		P_NATIVE_END;
+	}
 	void ANPC_AIController::StaticRegisterNativesANPC_AIController()
 	{
 		UClass* Class = ANPC_AIController::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "_onUpdated", &ANPC_AIController::exec_onUpdated },
+			{ "on_target_detected", &ANPC_AIController::execon_target_detected },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -80,6 +91,50 @@ void EmptyLinkFunctionForGeneratedCodeNPC_AIController() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics
+	{
+		struct NPC_AIController_eventon_target_detected_Parms
+		{
+			AActor* actor;
+			FAIStimulus stimulus;
+		};
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_actor;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_stimulus_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_stimulus;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::NewProp_actor = { "actor", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(NPC_AIController_eventon_target_detected_Parms, actor), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::NewProp_stimulus_MetaData[] = {
+		{ "NativeConst", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::NewProp_stimulus = { "stimulus", nullptr, (EPropertyFlags)0x0010000000000082, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(NPC_AIController_eventon_target_detected_Parms, stimulus), Z_Construct_UScriptStruct_FAIStimulus, METADATA_PARAMS(Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::NewProp_stimulus_MetaData, UE_ARRAY_COUNT(Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::NewProp_stimulus_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::NewProp_actor,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::NewProp_stimulus,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "NPC_AIController.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ANPC_AIController, nullptr, "on_target_detected", nullptr, nullptr, sizeof(NPC_AIController_eventon_target_detected_Parms), Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ANPC_AIController_on_target_detected()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ANPC_AIController_on_target_detected_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_ANPC_AIController_NoRegister()
 	{
 		return ANPC_AIController::StaticClass();
@@ -109,6 +164,7 @@ void EmptyLinkFunctionForGeneratedCodeNPC_AIController() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ANPC_AIController_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ANPC_AIController__onUpdated, "_onUpdated" }, // 3013447254
+		{ &Z_Construct_UFunction_ANPC_AIController_on_target_detected, "on_target_detected" }, // 115085912
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANPC_AIController_Statics::Class_MetaDataParams[] = {
@@ -167,7 +223,7 @@ void EmptyLinkFunctionForGeneratedCodeNPC_AIController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANPC_AIController, 3980603282);
+	IMPLEMENT_CLASS(ANPC_AIController, 486923664);
 	template<> JELLYHUNT_API UClass* StaticClass<ANPC_AIController>()
 	{
 		return ANPC_AIController::StaticClass();

@@ -27,7 +27,9 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 
-	/*UFUNCTION(BlueprintImplementableEvent,Category = "Position")*/
-	//FVector GetPlayerPosition();
+private:
+	
+	class UAIPerceptionStimuliSourceComponent* stimulus;
+	void SetupStimulus();
 
 };

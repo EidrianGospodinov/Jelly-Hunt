@@ -15,8 +15,7 @@ ANPC::ANPC()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
-
+	
 	
 
 }
@@ -25,6 +24,7 @@ ANPC::ANPC()
 void ANPC::BeginPlay()
 {
 	Super::BeginPlay();
+	
 	UMaterialInstanceDynamic* const _materialInstance = UMaterialInstanceDynamic::Create(GetMesh()->GetMaterial(0), this);
 
 	if (_materialInstance) {
@@ -39,7 +39,9 @@ void ANPC::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 	
-	
+	FVector enemyPos;
+	enemyPos = this->GetActorLocation();
+	//UE_LOG(LogTemp, Warning, TEXT("The enemy pos value is: %s"), *enemyPos.ToString());
 }
 
 // Called to bind functionality to input

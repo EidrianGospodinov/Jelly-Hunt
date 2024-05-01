@@ -19,10 +19,14 @@ public:
 	EBTNodeResult::Type ExecuteTask(UBehaviorTreeComponent& _ownerComp, uint8* _nodeMemory)override;
 
 protected:
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Search", meta = (AllowProtectedAccess="true"))
-	bool _searchRandom = false;
+	
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Search", meta = (AllowProtectedAccess = "true"))
-	float _searchRadius = 150.0f;
+	float _searchRadius = 1500.0f;
+	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Search", meta = (AllowPrivateAccess = "true"))
+	FVector _playerLocation;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Search", meta = (AllowProtectedAccess = "true"))
+	bool _searchRandom = false;
 };

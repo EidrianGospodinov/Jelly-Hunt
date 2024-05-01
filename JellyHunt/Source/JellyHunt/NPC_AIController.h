@@ -34,7 +34,8 @@ private:
 	//perception
 	class UAISenseConfig_Sight* _sightConfig;
 
-	void OnTargetDetected(AActor* actor, FAIStimulus const stimulus);
+	UFUNCTION()
+	void on_target_detected(AActor* actor, FAIStimulus const stimulus);
 
 	UFUNCTION()
 		void _onUpdated(TArray<AActor*>const& _updatedActors);

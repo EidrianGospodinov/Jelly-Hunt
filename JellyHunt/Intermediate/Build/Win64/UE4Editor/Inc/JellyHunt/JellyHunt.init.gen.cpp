@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeJellyHunt_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xE035050B,
+				0x498B273E,
 				0x08F0032F,
 				METADATA_PARAMS(nullptr, 0)
 			};

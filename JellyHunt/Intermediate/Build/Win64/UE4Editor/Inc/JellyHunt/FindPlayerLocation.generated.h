@@ -59,8 +59,9 @@ public: \
 
 
 #define JellyHunt_Source_JellyHunt_FindPlayerLocation_h_16_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO___searchRandom() { return STRUCT_OFFSET(UFindPlayerLocation, _searchRandom); } \
-	FORCEINLINE static uint32 __PPO___searchRadius() { return STRUCT_OFFSET(UFindPlayerLocation, _searchRadius); }
+	FORCEINLINE static uint32 __PPO___searchRadius() { return STRUCT_OFFSET(UFindPlayerLocation, _searchRadius); } \
+	FORCEINLINE static uint32 __PPO___playerLocation() { return STRUCT_OFFSET(UFindPlayerLocation, _playerLocation); } \
+	FORCEINLINE static uint32 __PPO___searchRandom() { return STRUCT_OFFSET(UFindPlayerLocation, _searchRandom); }
 
 
 #define JellyHunt_Source_JellyHunt_FindPlayerLocation_h_13_PROLOG

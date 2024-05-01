@@ -34,11 +34,12 @@ ANPC_AIController::ANPC_AIController(FObjectInitializer const& objectInitializer
 	}
 	_behaviorTreeComponent = objectInitializer.CreateDefaultSubobject<UBehaviorTreeComponent>(this, TEXT("BehaviourComp"));
 	blackboard = objectInitializer.CreateDefaultSubobject<UBlackboardComponent>(this, TEXT("BlackboardComp"));
+	_setupPerceptionSystem();
 }
 
 void ANPC_AIController::BeginPlay()
 {
-	UE_LOG(LogTemp, Warning, TEXT("begin play"));
+	//UE_LOG(LogTemp, Warning, TEXT("begin play"));
 
 
 	Super::BeginPlay();
@@ -46,14 +47,16 @@ void ANPC_AIController::BeginPlay()
 
 	RunBehaviorTree(_behaviorTree);
 	_behaviorTreeComponent->StartTree(*_behaviorTree);
+	UE_LOG(LogTemp, Warning, TEXT("ca"));
+	//getBlackboard()->SetValueAsBool(bb_keys::_canSeePlayer, true);
 }
 
 void ANPC_AIController::OnPossess(APawn* const pawn)
 {
-	UE_LOG(LogTemp, Warning, TEXT("on posses"));
+	//UE_LOG(LogTemp, Warning, TEXT("on posses"));
 	Super::OnPossess(pawn);
 	if (blackboard) {
-		UE_LOG(LogTemp, Warning, TEXT("possessed"));
+		//UE_LOG(LogTemp, Warning, TEXT("possessed"));
 		blackboard->InitializeBlackboard(*_behaviorTree->BlackboardAsset);
 
 	}
@@ -73,7 +76,7 @@ UBlackboardComponent* ANPC_AIController::getBlackboard() const
 	//{
 	//	UE_LOG(LogTemp, Warning, TEXT("Player character instance is NULL or not of type plauer loc"));
 	//}
-	UE_LOG(LogTemp, Warning, TEXT("getting blackboard"));
+	//UE_LOG(LogTemp, Warning, TEXT("getting blackboard"));
 	return Blackboard;
 }
 
@@ -82,8 +85,9 @@ UBlackboardComponent* ANPC_AIController::getBlackboard() const
 //perception
 
 
-void ANPC_AIController::OnTargetDetected(AActor* actor, FAIStimulus const stimulus)
+void ANPC_AIController::on_target_detected(AActor* actor, FAIStimulus const stimulus)
 {
+	UE_LOG(LogTemp, Warning, TEXT("on target detected"));
 	if (ACharacter* playerchar = UGameplayStatics::GetPlayerCharacter(GetWorld(), 0)) {
 		getBlackboard()->SetValueAsBool(bb_keys::_canSeePlayer, stimulus.WasSuccessfullySensed());
 	}
@@ -92,9 +96,10 @@ void ANPC_AIController::OnTargetDetected(AActor* actor, FAIStimulus const stimul
 void ANPC_AIController::_onUpdated(TArray<AActor*> const& _updatedActors)
 {
 }
+
 void ANPC_AIController::_setupPerceptionSystem()
 {
-
+	UE_LOG(LogTemp, Warning, TEXT("setup perception system"));
 	//create and initialise sight confiuration object
 	_sightConfig = CreateDefaultSubobject<UAISenseConfig_Sight>(TEXT("Sight Config"));
 	SetPerceptionComponent(*CreateDefaultSubobject<UAIPerceptionComponent>(TEXT("Perception Component")));
@@ -109,7 +114,7 @@ void ANPC_AIController::_setupPerceptionSystem()
 
 	//add sight configuration component to perception components
 	GetPerceptionComponent()->SetDominantSense(*_sightConfig->GetSenseImplementation());
-	GetPerceptionComponent()->OnTargetPerceptionUpdated.AddDynamic(this, &ANPC_AIController::OnTargetDetected);
+	GetPerceptionComponent()->OnTargetPerceptionUpdated.AddDynamic(this, &ANPC_AIController::on_target_detected);
 	GetPerceptionComponent()->ConfigureSense(*_sightConfig);
 
 }

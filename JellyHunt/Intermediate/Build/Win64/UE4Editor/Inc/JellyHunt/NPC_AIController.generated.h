@@ -9,6 +9,7 @@
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class AActor;
+struct FAIStimulus;
 #ifdef JELLYHUNT_NPC_AIController_generated_h
 #error "NPC_AIController.generated.h already included, missing '#pragma once' in NPC_AIController.h"
 #endif
@@ -17,12 +18,14 @@ class AActor;
 #define JellyHunt_Source_JellyHunt_NPC_AIController_h_16_SPARSE_DATA
 #define JellyHunt_Source_JellyHunt_NPC_AIController_h_16_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(exec_onUpdated);
+	DECLARE_FUNCTION(exec_onUpdated); \
+	DECLARE_FUNCTION(execon_target_detected);
 
 
 #define JellyHunt_Source_JellyHunt_NPC_AIController_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(exec_onUpdated);
+	DECLARE_FUNCTION(exec_onUpdated); \
+	DECLARE_FUNCTION(execon_target_detected);
 
 
 #define JellyHunt_Source_JellyHunt_NPC_AIController_h_16_INCLASS_NO_PURE_DECLS \

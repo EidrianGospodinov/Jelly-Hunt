@@ -19,25 +19,30 @@ UFindPlayerLocation::UFindPlayerLocation(FObjectInitializer const& _objectInitia
 EBTNodeResult::Type UFindPlayerLocation::ExecuteTask(UBehaviorTreeComponent& _ownerComp, uint8* _nodeMemory)
 {
 	//get player character and npc controller
-
+	//UE_LOG(LogTemp, Warning, TEXT("find player execute task"));
 	ACharacter* const player = UGameplayStatics::GetPlayerCharacter(GetWorld(), 0);
 	auto const cont = Cast<ANPC_AIController>(_ownerComp.GetAIOwner());
 
 	//get player location 
-	FVector const _playerLocation = player->GetActorLocation();
+	
+	  _playerLocation = player->GetActorLocation();
+	// UE_LOG(LogTemp, Warning, TEXT("The player value is: %s"), *_playerLocation.ToString());
 	if (_searchRandom) 
 	{
+		UE_LOG(LogTemp, Warning, TEXT("in radius"));
 		FNavLocation loc;
 		//get the nav system and generate rand loc near the player
 		UNavigationSystemV1* const _navSystem = UNavigationSystemV1::GetCurrent(GetWorld());
 		if (_navSystem->GetRandomPointInNavigableRadius(_playerLocation, _searchRadius, loc, nullptr)) 
 		{
+			UE_LOG(LogTemp, Warning, TEXT("set location"));
 			cont->getBlackboard()->SetValueAsVector(bb_keys::_targetLocation, loc.Location);
 		}
 		
 	}
 	else
 	{
+		UE_LOG(LogTemp, Warning, TEXT("ekleewe"));
 		cont->getBlackboard()->SetValueAsVector(bb_keys::_targetLocation, _playerLocation);
 	}
 

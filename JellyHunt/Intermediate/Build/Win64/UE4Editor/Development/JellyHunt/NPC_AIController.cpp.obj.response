@@ -266,11 +266,8 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt\NPC_AIController.cpp"
-/FI"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h"
+/FI"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.h"
 /Fo"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\NPC_AIController.cpp.obj"
 /TP
 /GR-

@@ -25,12 +25,12 @@ void ANPC::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	UMaterialInstanceDynamic* const _materialInstance = UMaterialInstanceDynamic::Create(GetMesh()->GetMaterial(0), this);
+	/*UMaterialInstanceDynamic* const _materialInstance = UMaterialInstanceDynamic::Create(GetMesh()->GetMaterial(0), this);
 
 	if (_materialInstance) {
 		_materialInstance->SetVectorParameterValue("BodyColor", FLinearColor(1.0f, 0.0f, 0.0f, 1.0f));
 		GetMesh()->SetMaterial(0, _materialInstance);
-	}
+	}*/
 	
 }
 

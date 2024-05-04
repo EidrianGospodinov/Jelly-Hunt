@@ -22,7 +22,7 @@ protected:
 	
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Search", meta = (AllowProtectedAccess = "true"))
-	float _searchRadius = 1500.0f;
+	float _searchRadius = 150.0f;
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Search", meta = (AllowPrivateAccess = "true"))
 	FVector _playerLocation;

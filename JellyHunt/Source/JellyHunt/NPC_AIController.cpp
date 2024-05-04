@@ -105,7 +105,7 @@ void ANPC_AIController::_setupPerceptionSystem()
 	SetPerceptionComponent(*CreateDefaultSubobject<UAIPerceptionComponent>(TEXT("Perception Component")));
 	_sightConfig->SightRadius = 500.0f;
 	_sightConfig->LoseSightRadius = _sightConfig->SightRadius + 50.0f;
-	_sightConfig->PeripheralVisionAngleDegrees = 120.0f;
+	_sightConfig->PeripheralVisionAngleDegrees = 180.0f;
 	_sightConfig->SetMaxAge(5.0f);
 	_sightConfig->AutoSuccessRangeFromLastSeenLocation = 900.0f;
 	_sightConfig->DetectionByAffiliation.bDetectEnemies = true;

@@ -10226,3 +10226,208 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.05.06-02.06.46:031][992]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/JellyGroundsD9D6B1EC42798FB2811883863A0DB713.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Maps/JellyGrounds.umap'
 [2024.05.06-02.06.46:063][992]AssetCheck: New page: Asset Save: JellyGrounds
 [2024.05.06-02.06.46:063][992]LogContentValidation: Display: Validating World /Game/Maps/JellyGrounds.JellyGrounds
+[2024.05.06-02.15.22:268][848]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.06-02.16.45:437][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.06-02.16.45:448][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/JellyGrounds' took 0.043
+[2024.05.06-02.16.45:449][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/JellyF/The_End__Great_/Image_2D_0002_0004] ([1] browsable assets)...
+[2024.05.06-02.16.45:454][874]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/JellyF/The_End__Great_/Image_2D_0002_0004.Image_2D_0002_0004]
+[2024.05.06-02.16.45:454][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/JellyF/The_End__Great_/Image_2D_0002_0004]
+[2024.05.06-02.16.45:464][874]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/Image_2D_0002_0004_Auto14BA60EDA4504A9CF177753A4E8CB06B3.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/Autosaves/Game/Models/JellyF/The_End__Great_/Image_2D_0002_0004_Auto1.uasset'
+[2024.05.06-02.16.45:465][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/JellyF/The_End__Great_/theend] ([1] browsable assets)...
+[2024.05.06-02.16.45:494][874]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/JellyF/The_End__Great_/theend.theend]
+[2024.05.06-02.16.45:494][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/JellyF/The_End__Great_/theend]
+[2024.05.06-02.16.45:541][874]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/theend_Auto15E2E2CC64C55D0C0536D0DAA831F5261.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/Autosaves/Game/Models/JellyF/The_End__Great_/theend_Auto1.uasset'
+[2024.05.06-02.16.45:541][874]LogFileHelpers: Auto-saving content packages took 0.092
+[2024.05.06-02.17.19:398][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JellyGrounds" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Maps/JellyGrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.06-02.17.19:425][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.06-02.17.20:404][985]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/JellyGrounds0AC9F32D40F51047DA7836809F771112.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Maps/JellyGrounds.umap'
+[2024.05.06-02.17.20:439][985]AssetCheck: New page: Asset Save: JellyGrounds
+[2024.05.06-02.17.20:439][985]LogContentValidation: Display: Validating World /Game/Maps/JellyGrounds.JellyGrounds
+[2024.05.06-02.20.19:017][810]LogSlate: Window 'Message' being destroyed
+[2024.05.06-02.20.19:043][810]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Characters/Sandycheeks/M_Glass_Inst.M_Glass_Inst
+(Selecting 'No' will cause all changes to be lost!)
+[2024.05.06-02.20.25:392][810]LogMaterial: Display: Missing cached shadermap for M_Glass_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 5CEC181DA492055C650F331CA62CB53CA9074EB5), compiling. 
+[2024.05.06-02.20.25:817][810]LogMaterial: Display: Missing cached shadermap for M_Glass_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: CE93E6D332787622277F3741F1E3796B2DF1F108), compiling. 
+[2024.05.06-02.20.25:934][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.06-02.20.26:490][810]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.05.06-02.20.26:653][810]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2024.05.06-02.20.26:653][810]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.06-02.20.26:653][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-02.20.26:653][810]LogShaderCompilers: Display: Total job queries 3452, among them cache hits 2344 (67.90%)
+[2024.05.06-02.20.26:653][810]LogShaderCompilers: Display: Tracking 1053 distinct input hashes that result in 395 distinct outputs (37.51%)
+[2024.05.06-02.20.26:653][810]LogShaderCompilers: Display: RAM used: 2.78 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.34%
+[2024.05.06-02.20.26:653][810]LogShaderCompilers: Display: ================================================
+[2024.05.06-02.20.28:140][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.06-02.20.28:597][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.06-02.26.12:706][810]LogSlate: Window 'Save Content' being destroyed
+[2024.05.06-02.26.12:812][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/b4_wood_roof_line_ncl1_1E517CEBB4E9818031810D2A045EE3F73.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/Wooden_Platform/b4_wood_roof_line_ncl1_1.uasset'
+[2024.05.06-02.26.12:942][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/b4_wood_roof_line_ncl1_1_MatCEC288684C58002D4BFB90947E0B3DAC.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/Wooden_Platform/b4_wood_roof_line_ncl1_1_Mat.uasset'
+[2024.05.06-02.26.12:942][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/BackgroundM_Fields" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Sounds/BackgroundM_Fields.uasset" SILENT=true
+[2024.05.06-02.26.18:988][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/BackgroundM_Fields8391997F4FE17DD5F8B448AF3B8BADC7.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Sounds/BackgroundM_Fields.uasset'
+[2024.05.06-02.26.19:054][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyF/building_wood_krusty2" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/building_wood_krusty2.uasset" SILENT=true
+[2024.05.06-02.26.19:066][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/building_wood_krusty2A587E1F24620A39E38171E8CF4AE1243.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/building_wood_krusty2.uasset'
+[2024.05.06-02.26.19:106][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/building_wood_krusty2_Mat08173ED24F921F64180F41834E293D7F.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/building_wood_krusty2_Mat.uasset'
+[2024.05.06-02.26.19:107][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CrustyKrabs" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Maps/CrustyKrabs.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.06-02.26.19:161][810]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2024.05.06-02.26.19:337][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/CrustyKrabsD81BA6AB427B1334ED225DAC4B4F40B1.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Maps/CrustyKrabs.umap'
+[2024.05.06-02.26.19:340][810]LogFileHelpers: Saving map 'CrustyKrabs' took 0.234
+[2024.05.06-02.26.19:340][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CRUSTYKRAB/EEVEE_Glass_Shader" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/CRUSTYKRAB/EEVEE_Glass_Shader.uasset" SILENT=true
+[2024.05.06-02.26.19:376][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/EEVEE_Glass_ShaderA8D8039F4301DA9F3ED8849AA0A9A812.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/CRUSTYKRAB/EEVEE_Glass_Shader.uasset'
+[2024.05.06-02.26.19:406][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Sandycheeks/Idle" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Characters/Sandycheeks/Idle.uasset" SILENT=true
+[2024.05.06-02.26.19:748][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/IdleD1710BD648C7FF83511B87A3EF9CDF02.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Characters/Sandycheeks/Idle.uasset'
+[2024.05.06-02.26.20:689][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Sandycheeks/Idle_Anim" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Characters/Sandycheeks/Idle_Anim.uasset" SILENT=true
+[2024.05.06-02.26.21:526][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/Idle_AnimFC46E81D43854495EC891D9B8702644D.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Characters/Sandycheeks/Idle_Anim.uasset'
+[2024.05.06-02.26.21:688][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/Idle_PhysicsAsset8603C004400221F2DF0FFB812EB8C5C7.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Characters/Sandycheeks/Idle_PhysicsAsset.uasset'
+[2024.05.06-02.26.21:694][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/Image_2D_0002_0004AAC4146A440D0274AFEC758EF3EE5BF7.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/The_End__Great_/Image_2D_0002_0004.uasset'
+[2024.05.06-02.26.21:734][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.06-02.26.21:734][810]LogShaderCompilers: Display: Total job queries 3454, among them cache hits 2346 (67.92%)
+[2024.05.06-02.26.21:734][810]LogShaderCompilers: Display: Tracking 1054 distinct input hashes that result in 396 distinct outputs (37.57%)
+[2024.05.06-02.26.21:734][810]LogShaderCompilers: Display: RAM used: 2.78 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.34%
+[2024.05.06-02.26.21:734][810]LogShaderCompilers: Display: ================================================
+[2024.05.06-02.26.21:762][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/Image_2D_0002_0004_MatD5BBCEB04D0D9EBA4AE24599CF2DEE42.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/The_End__Great_/Image_2D_0002_0004_Mat.uasset'
+[2024.05.06-02.26.21:762][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Glass" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/StarterContent/Materials/M_Glass.uasset" SILENT=true
+[2024.05.06-02.26.21:923][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/M_Glass3CC846B74DDD76E4CF7C828E36C8A8F4.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/StarterContent/Materials/M_Glass.uasset'
+[2024.05.06-02.26.22:009][810]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Normal' priority
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2024.05.06-02.26.22:015][810]LogShaderCompilers: Display: Started 17 'Local' shader compile jobs with 'Normal' priority
+[2024.05.06-02.26.22:015][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Sandycheeks/M_Glass_Inst" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Characters/Sandycheeks/M_Glass_Inst.uasset" SILENT=true
+[2024.05.06-02.26.22:031][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/M_Glass_InstEEA3AEDC455865ADCE19BF958FA43FF5.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Characters/Sandycheeks/M_Glass_Inst.uasset'
+[2024.05.06-02.26.22:050][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/M_StatueGlass1B5310D745F24E1C849FF49545C18425.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/StarterContent/Props/Materials/M_StatueGlass.uasset'
+[2024.05.06-02.26.22:292][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0005mat_baseColorF6483B1A47AE0359997329A9669A4FB6.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0005mat_baseColor.uasset'
+[2024.05.06-02.26.22:337][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0025mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0025mat.uasset" SILENT=true
+[2024.05.06-02.26.22:452][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0025matED750FC640AB225235C652A043FA4511.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0025mat.uasset'
+[2024.05.06-02.26.22:469][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0025mat_baseColor145F261E4B98AA6F5529098F642D14AD.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0025mat_baseColor.uasset'
+[2024.05.06-02.26.22:499][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0044mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0044mat.uasset" SILENT=true
+[2024.05.06-02.26.22:516][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0044matAEC340344695A9733D1F33B165968EE3.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0044mat.uasset'
+[2024.05.06-02.26.22:546][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0044mat_baseColor2D9431F846BC67F257F166BB3F0CD997.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0044mat_baseColor.uasset'
+[2024.05.06-02.26.22:590][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0054mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0054mat.uasset" SILENT=true
+[2024.05.06-02.26.22:597][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0054mat291A5A694E182929E18E91BF53D2E129.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0054mat.uasset'
+[2024.05.06-02.26.22:710][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0054mat_baseColor9B7DDC324E753E3F62659292BD14C725.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0054mat_baseColor.uasset'
+[2024.05.06-02.26.22:736][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0055mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0055mat.uasset" SILENT=true
+[2024.05.06-02.26.22:741][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0055mat2923FAB04EC71778F72521BF91FAE555.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0055mat.uasset'
+[2024.05.06-02.26.22:759][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0055mat_baseColorF5C1C9614CCC3D1F238A42ACF73715B3.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0055mat_baseColor.uasset'
+[2024.05.06-02.26.22:784][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0084mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0084mat.uasset" SILENT=true
+[2024.05.06-02.26.22:789][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0084matE0BE521A419985F24CFD78A5401A4ECF.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0084mat.uasset'
+[2024.05.06-02.26.22:841][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0084mat_baseColorBEC1555348E01044917161AE3BBDCEC9.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0084mat_baseColor.uasset'
+[2024.05.06-02.26.22:975][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0090mat_baseColor96BA862241A61C8145E6C99710AEE427.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0090mat_baseColor.uasset'
+[2024.05.06-02.26.22:993][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0092mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0092mat.uasset" SILENT=true
+[2024.05.06-02.26.22:998][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0092mat2BCEA0B94B3240C1DA9D93899B998D3D.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0092mat.uasset'
+[2024.05.06-02.26.23:057][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0092mat_baseColor253278344623CC31E1DE28A551C01E6C.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0092mat_baseColor.uasset'
+[2024.05.06-02.26.23:111][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0096mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0096mat.uasset" SILENT=true
+[2024.05.06-02.26.23:116][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0096mat1762FFE1425CEAE1A308449C8B977FCA.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0096mat.uasset'
+[2024.05.06-02.26.23:225][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0096mat_baseColor5F7CD6364240C687E0A6CAA6664F43CA.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0096mat_baseColor.uasset'
+[2024.05.06-02.26.23:306][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0122mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0122mat.uasset" SILENT=true
+[2024.05.06-02.26.23:316][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0122matFC8F3F774AD469D7E3A5AF94A39C6BCD.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0122mat.uasset'
+[2024.05.06-02.26.23:372][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0122mat_baseColor05FE11EC43834255AF3863A9C4170841.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0122mat_baseColor.uasset'
+[2024.05.06-02.26.23:380][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0128mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0128mat.uasset" SILENT=true
+[2024.05.06-02.26.23:405][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0128mat773341DC47FEBB19CBB0FAAC6895F953.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0128mat.uasset'
+[2024.05.06-02.26.23:493][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0128mat_baseColor7E11430D4465D504BBAAB9A810021D01.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0128mat_baseColor.uasset'
+[2024.05.06-02.26.23:500][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0134mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0134mat.uasset" SILENT=true
+[2024.05.06-02.26.23:504][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0134matC23BFBE5474CAD8324674A86B0695517.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0134mat.uasset'
+[2024.05.06-02.26.23:517][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0134mat_baseColorEB952BA6447271E0C5F0C78077F765AE.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0134mat_baseColor.uasset'
+[2024.05.06-02.26.23:530][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0154mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0154mat.uasset" SILENT=true
+[2024.05.06-02.26.23:545][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0154matA475B431489F1E4E426B06811947CA8C.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0154mat.uasset'
+[2024.05.06-02.26.23:554][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0154mat_baseColorE94E4FB6414C9898DF786691496E5FA1.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0154mat_baseColor.uasset'
+[2024.05.06-02.26.23:580][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0166mat_baseColor9A659BBB42307210042DFFB6F3E04A02.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0166mat_baseColor.uasset'
+[2024.05.06-02.26.23:596][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0174mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0174mat.uasset" SILENT=true
+[2024.05.06-02.26.23:608][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0174mat18A9C07A40DD4290C06AB298874E9CB0.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0174mat.uasset'
+[2024.05.06-02.26.23:612][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0174mat_baseColorDC0FD6DF46721367784EC19F62353FF1.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0174mat_baseColor.uasset'
+[2024.05.06-02.26.23:620][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyFMountains/mesh0177mat" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0177mat.uasset" SILENT=true
+[2024.05.06-02.26.23:624][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0177mat161984F8402A07145F2E6C8236F5E75D.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0177mat.uasset'
+[2024.05.06-02.26.23:651][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/mesh0177mat_baseColor9B6946B64BC4A2A5EE74C786EE07B6EA.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/mesh0177mat_baseColor.uasset'
+[2024.05.06-02.26.23:782][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/RocksBarriers10AAEAECE48C22B9F0845199389BB3DAD.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/RocksBarriers1.uasset'
+[2024.05.06-02.26.23:937][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/RocksBarriers2A585C9AD417C4924333DFAB78857F6FF.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/RocksBarriers2.uasset'
+[2024.05.06-02.26.24:102][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/RocksBarriers30AB905964DDF11ED395C9CB5DCBB1F65.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyFMountains/RocksBarriers3.uasset'
+[2024.05.06-02.26.24:360][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/spongeball_track_pattern_blue_MaF8554B504E2AC4C90B68A5950439A86B.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/Wooden_Platform/spongeball_track_pattern_blue_Mat.uasset'
+[2024.05.06-02.26.24:431][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/spongeball_track_pattern_blue_ncAD2B17B448B7643AD2F941B330191F88.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/Wooden_Platform/spongeball_track_pattern_blue_ncl1_1.uasset'
+[2024.05.06-02.26.24:455][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/spongeball_track_pattern_blue_nc72484AC446AE27F9BA9C70BE809710C7.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/Wooden_Platform/spongeball_track_pattern_blue_ncl1_1_Mat.uasset'
+[2024.05.06-02.26.24:455][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/JellyF/The_End__Great_/theend" FILE="../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/The_End__Great_/theend.uasset" SILENT=true
+[2024.05.06-02.26.24:458][810]LogSavePackage: Moving '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Saved/theend17F2410A49FB7C22A934D7AE5480CB5D.tmp' to '../../../../../Game Jams/Ukie GameJam/Jelly-Hunt/JellyHunt/Content/Models/JellyF/The_End__Great_/theend.uasset'
+[2024.05.06-02.26.24:628][810]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-02.26.24:628][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-02.26.24:857][810]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.06-02.26.24:857][810]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-02.26.24:857][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-02.26.24:915][810]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.06-02.26.24:915][810]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-02.26.24:915][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-02.26.31:901][810]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-02.26.31:901][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-02.26.38:345][810]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-02.26.38:345][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-02.26.39:467][810]LogSlate: Window 'Sandy_NPC' being destroyed
+[2024.05.06-02.26.40:692][810]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.06-02.26.40:692][810]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-02.26.40:692][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-02.26.46:546][810]LogSlate: Window 'JellyHunt - Unreal Editor' being destroyed
+[2024.05.06-02.27.04:407][810]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating Material /Game/Models/CRUSTYKRAB/EEVEE_Glass_Shader.EEVEE_Glass_Shader
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating World /Game/Maps/CrustyKrabs.CrustyKrabs
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating SoundWave /Game/Sounds/BackgroundM_Fields.BackgroundM_Fields
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating StaticMesh /Game/Models/JellyFMountains/RocksBarriers1.RocksBarriers1
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Glass.M_Glass
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Sandycheeks/Idle_Anim.Idle_Anim
+[2024.05.06-02.27.04:407][810]LogContentValidation: Display: Validating PhysicsAsset /Game/Characters/Sandycheeks/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Characters/Sandycheeks/M_Glass_Inst.M_Glass_Inst
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Sandycheeks/Idle.Idle
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyF/building_wood_krusty2_Mat.building_wood_krusty2_Mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0177mat_baseColor.mesh0177mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0177mat.mesh0177mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0174mat_baseColor.mesh0174mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0090mat_baseColor.mesh0090mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0174mat.mesh0174mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0154mat_baseColor.mesh0154mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0154mat.mesh0154mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0134mat_baseColor.mesh0134mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0134mat.mesh0134mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0128mat_baseColor.mesh0128mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0128mat.mesh0128mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0005mat_baseColor.mesh0005mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0122mat_baseColor.mesh0122mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0122mat.mesh0122mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0096mat_baseColor.mesh0096mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0096mat.mesh0096mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0166mat_baseColor.mesh0166mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0055mat_baseColor.mesh0055mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0055mat.mesh0055mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0044mat_baseColor.mesh0044mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0044mat.mesh0044mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0025mat_baseColor.mesh0025mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0025mat.mesh0025mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0084mat_baseColor.mesh0084mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating StaticMesh /Game/Models/JellyFMountains/RocksBarriers3.RocksBarriers3
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0084mat.mesh0084mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0054mat_baseColor.mesh0054mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0054mat.mesh0054mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyFMountains/mesh0092mat_baseColor.mesh0092mat_baseColor
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyFMountains/mesh0092mat.mesh0092mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating StaticMesh /Game/Models/JellyFMountains/RocksBarriers2.RocksBarriers2
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyF/Wooden_Platform/spongeball_track_pattern_blue_ncl1_1_Mat.spongeball_track_pattern_blue_ncl1_1_Mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyF/Wooden_Platform/spongeball_track_pattern_blue_Mat.spongeball_track_pattern_blue_Mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyF/building_wood_krusty2.building_wood_krusty2
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyF/Wooden_Platform/b4_wood_roof_line_ncl1_1_Mat.b4_wood_roof_line_ncl1_1_Mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyF/Wooden_Platform/b4_wood_roof_line_ncl1_1.b4_wood_roof_line_ncl1_1
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyF/Wooden_Platform/spongeball_track_pattern_blue_ncl1_1.spongeball_track_pattern_blue_ncl1_1
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Material /Game/Models/JellyF/The_End__Great_/Image_2D_0002_0004_Mat.Image_2D_0002_0004_Mat
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating StaticMesh /Game/Models/JellyF/The_End__Great_/theend.theend
+[2024.05.06-02.27.04:433][810]LogContentValidation: Display: Validating Texture2D /Game/Models/JellyF/The_End__Great_/Image_2D_0002_0004.Image_2D_0002_0004
+[2024.05.06-02.27.04:984][811]Cmd: QUIT_EDITOR
+[2024.05.06-02.27.05:225][811]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.06-02.27.06:928][811]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.06-02.27.11:522][811]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.06-02.27.11:526][811]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.06-02.27.11:526][811]LogAudio: Display: Audio Device unregistered from world 'JellyGrounds'.
+[2024.05.06-02.27.11:554][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.06-02.27.11:775][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.06-02.27.12:734][811]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.06-02.27.12:933][811]LogWindowsTextInputMethodSystem: Display: IME system deactivated.

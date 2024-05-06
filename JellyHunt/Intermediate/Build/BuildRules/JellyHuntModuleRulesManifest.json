@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Lelinho\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHunt\\JellyHunt.Build.cs",
-		"C:\\Users\\Lelinho\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHunt.Target.cs",
-		"C:\\Users\\Lelinho\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHuntEditor.Target.cs"
+		"C:\\Users\\edgos\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHunt\\JellyHunt.Build.cs",
+		"C:\\Users\\edgos\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHunt.Target.cs",
+		"C:\\Users\\edgos\\Documents\\GitHub\\Jelly-Hunt\\JellyHunt\\Source\\JellyHuntEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

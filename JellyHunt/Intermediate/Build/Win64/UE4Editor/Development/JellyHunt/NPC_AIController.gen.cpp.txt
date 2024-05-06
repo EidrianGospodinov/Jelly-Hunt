@@ -1,7 +1,7 @@
-C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Source\JellyHunt/NPC_AIController.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt/NPC_AIController.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AIController.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
@@ -43,4 +43,4 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionTypes.generated.h
-C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\NPC_AIController.generated.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\NPC_AIController.generated.h

@@ -1,7 +1,7 @@
-C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Source\JellyHunt/FindPlayerLocation.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt/FindPlayerLocation.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/Tasks/BTTask_BlackboardBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTTaskNode.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTNode.h
@@ -39,4 +39,4 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTNode.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTTaskNode.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTTask_BlackboardBase.generated.h
-C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\FindPlayerLocation.generated.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\FindPlayerLocation.generated.h

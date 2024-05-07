@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt"
-/I "D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Source"
+/I C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt
+/I C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Source\JellyHunt\playerLocPawn.cpp"
-/FI"D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h"
-/Fo"D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\playerLocPawn.cpp.obj"
+/FI"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt\playerLocPawn.cpp"
+/FI"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h"
+/Fo"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\playerLocPawn.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,30 +1,30 @@
-D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
-D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Source\JellyHunt\PlayerCharacter.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\PlayerCharacter.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionStimuliSourceComponent.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AISense.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionTypes.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AITypes.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionTypes.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISense.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionStimuliSourceComponent.generated.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AISense_Sight.h
-D:\Uni\Year 2\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISense_Sight.generated.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt\PlayerCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\PlayerCharacter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionStimuliSourceComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AISense.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISense.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionStimuliSourceComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AISense_Sight.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISense_Sight.generated.h

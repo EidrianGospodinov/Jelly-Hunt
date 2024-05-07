@@ -1,0 +1,1250 @@
+﻿Log file open, 05/07/24 21:15:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JellyHunt
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.160338
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-14900F, GPU: NVIDIA GeForce RTX 4080 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=590f69a952404e18bd825370d4f036a8 -AUTH_TYPE=exchangecode -epicapp=UE_4.27 -epicenv=Prod -EpicPortal -epicusername="edko gaming" -epicuserid=4f6c2e5fb35d4132ac4c07cb3dc93df3 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.05.07-20.15.54:645][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.05.07-20.15.54:645][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.05.07-20.15.54:645][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+[2024.05.07-20.15.54:645][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.05.07-20.15.54:645][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+[2024.05.07-20.15.54:645][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+[2024.05.07-20.15.54:645][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.05.07-20.15.54:646][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+[2024.05.07-20.15.54:646][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+[2024.05.07-20.15.54:678][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.05.07-20.15.54:678][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.05.07-20.15.54:679][  0]LogInit: Selected Device Profile: [Windows]
+[2024.05.07-20.15.54:679][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.05.07-20.15.54:679][  0]LogHAL: Display: Platform has ~ 64 GB [68423933952 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.05.07-20.15.54:679][  0]LogInit: Going up to parent DeviceProfile []
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.05.07-20.15.54:679][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:679][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Scalability.ini]
+[2024.05.07-20.15.54:680][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.05.07-20.15.54:680][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.05.07-20.15.54:680][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Engine.ini]
+[2024.05.07-20.15.54:680][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Config/Windows/Editor.ini]
+[2024.05.07-20.15.54:680][  0]LogInit: Computer: LASTCHANCE
+[2024.05.07-20.15.54:680][  0]LogInit: User: edgos
+[2024.05.07-20.15.54:680][  0]LogInit: CPU Page size=4096, Cores=24
+[2024.05.07-20.15.54:680][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.05.07-20.15.54:680][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2024.05.07-20.15.54:680][  0]LogMemory: Platform Memory Stats for Windows
+[2024.05.07-20.15.54:680][  0]LogMemory: Process Physical Memory: 152.39 MB used, 152.39 MB peak
+[2024.05.07-20.15.54:680][  0]LogMemory: Process Virtual Memory: 131.76 MB used, 131.76 MB peak
+[2024.05.07-20.15.54:680][  0]LogMemory: Physical Memory: 21118.86 MB used,  44135.29 MB free, 65254.15 MB total
+[2024.05.07-20.15.54:680][  0]LogMemory: Virtual Memory: 134173936.00 MB used,  43795.16 MB free, 134217728.00 MB total
+[2024.05.07-20.15.54:684][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.05.07-20.15.54:712][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.05.07-20.15.54:713][  0]LogInit: Using OS detected language (en-US).
+[2024.05.07-20.15.54:713][  0]LogInit: Using OS detected locale (en-GB).
+[2024.05.07-20.15.54:714][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.05.07-20.15.54:819][  0]LogInit: Setting process to per monitor DPI aware
+[2024.05.07-20.15.54:832][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.05.07-20.15.54:839][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.05.07-20.15.54:839][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.05.07-20.15.54:886][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.05.07-20.15.54:889][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.05.07-20.15.54:889][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.05.07-20.15.54:889][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.05.07-20.15.54:889][  0]LogD3D11RHI: D3D11 adapters:
+[2024.05.07-20.15.54:970][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4080 SUPER' (Feature Level 11_0)
+[2024.05.07-20.15.54:970][  0]LogD3D11RHI:       16047/0/32627 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:       0/0/32627 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4080 SUPER
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     DeviceId    : 2702
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     SubSysId    : 511d1028
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     DedicatedVideoMemory : 16826499072 bytes
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     SharedSystemMemory : 34211966976 bytes
+[2024.05.07-20.15.54:971][  0]LogD3D11RHI:     AdapterLuid : 0 69635
+[2024.05.07-20.15.54:979][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.05.07-20.15.54:979][  0]LogD3D11RHI:     GPU DeviceId: 0x2702 (for the marketing name, search the web for "GPU Device Id")
+[2024.05.07-20.15.54:979][  0]LogWindows: EnumDisplayDevices:
+[2024.05.07-20.15.54:979][  0]LogWindows:    0. 'NVIDIA GeForce RTX 4080 SUPER' (P:1 D:1)
+[2024.05.07-20.15.54:979][  0]LogWindows:    1. 'NVIDIA GeForce RTX 4080 SUPER' (P:0 D:1)
+[2024.05.07-20.15.54:979][  0]LogWindows:    2. 'NVIDIA GeForce RTX 4080 SUPER' (P:0 D:0)
+[2024.05.07-20.15.54:980][  0]LogWindows:    3. 'NVIDIA GeForce RTX 4080 SUPER' (P:0 D:0)
+[2024.05.07-20.15.54:980][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4080 SUPER
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:   Driver Version: 552.22 (internal:31.0.15.5222, unified:552.22)
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:      Driver Date: 4-11-2024
+[2024.05.07-20.15.54:980][  0]LogRHI: Texture pool is 11232 MB (70% of 16047 MB)
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4080 SUPER
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     DeviceId    : 2702
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     SubSysId    : 511d1028
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     DedicatedVideoMemory : 16826499072 bytes
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     SharedSystemMemory : 34211966976 bytes
+[2024.05.07-20.15.54:980][  0]LogD3D11RHI:     AdapterLuid : 0 69635
+[2024.05.07-20.15.55:027][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.05.07-20.15.55:027][  0]LogD3D11RHI: Async texture creation enabled
+[2024.05.07-20.15.55:027][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.05.07-20.15.55:028][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2024.05.07-20.15.55:045][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.05.07-20.15.55:059][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.05.07-20.15.55:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.05.07-20.15.55:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.05.07-20.15.55:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.05.07-20.15.55:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.05.07-20.15.55:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.05.07-20.15.55:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.05.07-20.15.55:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.05.07-20.15.55:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.05.07-20.15.55:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.05.07-20.15.55:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.05.07-20.15.55:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.05.07-20.15.55:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.05.07-20.15.55:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.05.07-20.15.55:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.05.07-20.15.55:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.05.07-20.15.55:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.05.07-20.15.55:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.05.07-20.15.55:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.05.07-20.15.55:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.05.07-20.15.55:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.05.07-20.15.55:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.05.07-20.15.55:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.05.07-20.15.55:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.05.07-20.15.55:301][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.05.07-20.15.55:307][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.05.07-20.15.55:325][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.05.07-20.15.55:343][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.05.07-20.15.55:343][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Intermediate/Shaders/WorkingDirectory/68752/).
+[2024.05.07-20.15.55:343][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/edgos/AppData/Local/Temp/UnrealShaderWorkingDir/F990A9A64764AC21E10058B7C77B6AF9/'.
+[2024.05.07-20.15.55:343][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.05.07-20.15.55:344][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.05.07-20.15.55:344][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.05.07-20.15.55:764][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.05.07-20.15.55:803][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/edgos/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.05.07-20.15.55:803][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/edgos/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.05.07-20.15.55:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.05.07-20.15.55:803][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.05.07-20.15.55:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.07-20.15.55:803][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.05.07-20.15.55:813][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.05.07-20.15.55:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.07-20.15.55:813][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.05.07-20.15.55:818][  0]LogDerivedDataCache: Speed tests for C:/Users/edgos/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2024.05.07-20.15.55:818][  0]LogDerivedDataCache: Display: Performance to C:/Users/edgos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2754.63MBs, RandomWriteSpeed=232.63MBs. Assigned SpeedClass 'Local'
+[2024.05.07-20.15.55:818][  0]LogDerivedDataCache: Using Local data cache path C:/Users/edgos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.05.07-20.15.55:818][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.05.07-20.15.55:818][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.05.07-20.15.55:843][  0]LogSlate: Using FreeType 2.10.0
+[2024.05.07-20.15.55:843][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.05.07-20.15.55:857][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2024.05.07-20.15.55:978][  0]LogInit: Selected Device Profile: [Windows]
+[2024.05.07-20.15.55:978][  0]LogInit: Active device profile: [0000021CAB674B00][0000021C9F500580 49] Windows
+[2024.05.07-20.15.55:978][  0]LogInit: Profiles: [0000021CAB674B00][0000021C9F500580 49] Windows, [0000021CAB626100][0000021CAACA6700 49] WindowsNoEditor, [0000021CAB675900][0000021CAACA2840 49] WindowsServer, [0000021CAB626E00][0000021CAACAA980 49] WindowsClient, [0000021CAB677C00][0000021CAACAEAC0 49] IOS, [0000021CAB624F00][0000021CAACB6C40 49] iPadAir, [0000021CAB677E00][0000021CAACBADC0 49] iPadAir2, [0000021CAB5CCE00][0000021CAACC3080 49] IPadPro, [0000021CAB5CCF00][0000021CAACBF0C0 49] iPadAir3, [0000021CAB627B00][0000021CAACC7240 49] iPadAir4, [0000021CAB5CF800][0000021CAACCB3C0 49] iPadMini2, [0000021CAB626F00][0000021CABF8D540 49] iPadMini3, [0000021CAB5CFA00][0000021CABF916C0 49] iPadMini4, [0000021CAB627800][0000021CABF95840 49] iPadMini5, [0000021CAB610600][0000021CABF9DB00 49] iPhone6, [0000021CAB610700][0000021CABF99B40 49] iPodTouch6, [0000021CAB676800][0000021CABFA4280 49] iPhone7, [0000021CAB676600][0000021CABFA02C0 49] iPodTouch7, [0000021CAB610100][0000021CABFA8440 49] iPhone5S, [0000021CAB5CC700][0000021CABFAC5C0 49] iPhone6Plus, [0000021CAB612500][0000021CABFB0740 49] iPhone6S, [0000021CAB5CD300][0000021CABFB48C0 49] iPhone6SPlus, [0000021CAB613B00][0000021CAACB2A00 49] iPhone7Plus, [0000021CAB5CF700][0000021CABFB8B40 49] iPhoneSE, [0000021CAB676B00][0000021CABFBCC80 49] iPhone8, [0000021CAB5CC600][0000021CABFC0DC0 49] iPhone8Plus, [0000021CAB676100][0000021CABFC8F40 49] iPhoneX, [0000021CAB5CE900][0000021CABFCD0C0 49] iPhoneXS, [0000021CAB677700][0000021CABFD1240 49] iPhoneXSMax, [0000021CAB5CEF00][0000021CABFD53C0 49] iPhoneXR, [0000021CAB677B00][0000021CABFD9540 49] iPhone11, [0000021CAB5CDE00][0000021CABFDD6C0 49] iPhone11Pro, [0000021CAB674700][0000021CABFE1840 49] iPhone11ProMax, [0000021CAB5CE000][0000021CABFE59C0 49] iPhoneSE2, [0000021CAB677A00][0000021CABFE9B40 49] iPhone12Mini, [0000021CAB5CE100][0000021CABFEC140 49] iPhone12, [0000021CAB674600][0000021CABFF02C0 49] iPhone12Pro, [0000021CAB5CF400][0000021CABFF4440 49] iPhone12ProMax, [0000021CAB674800][0000021CABFF85C0 49] iPadPro105, [0000021CAB5CD900][0000021CABFFC740 49] iPadPro129, [0000021CAB677F00][0000021CAC0008C0 49] iPadPro97, [0000021CAB5CFC00][0000021CAC004A40 49] iPadPro2_129, [0000021CAB677900][0000021CABFC4B80 49] iPad5, [0000021CAB5CC300][0000021CAC008CC0 49] iPad6, [0000021CAB675B00][0000021CAC00CE00 49] iPad7, [0000021CAB5CF600][0000021CAC010F40 49] iPad8, [0000021CAB675600][0000021CAC0190C0 49] iPadPro11, [0000021CAB5CED00][0000021CAC01D240 49] iPadPro2_11, [0000021CAB675A00][0000021CAC0213C0 49] iPadPro3_129, [0000021CAB5CEE00][0000021CAC025540 49] iPadPro4_129, [0000021CAB674500][0000021CAC0296C0 49] AppleTV, [0000021CAB5CF000][0000021CAC02D840 49] AppleTV4K, [0000021CAB675C00][0000021CAC0319C0 49] TVOS, [0000021CAB5CC800][0000021CAC035B40 49] Mac, [0000021CAB676500][0000021CAC038140 49] MacClient, [0000021CAB5CEC00][0000021CAC03C2C0 49] MacNoEditor, [0000021CAB677500][0000021CAC040440 49] MacServer, [0000021CAB5CCA00][0000021CAC0445C0 49] Linux, [0000021CAB674400][0000021CAC048740 49] LinuxAArch64, [0000021CAB5CDA00][0000021CAC04C8C0 49] LinuxNoEditor, [0000021CAB675D00][0000021CAC050A40 49] LinuxAArch64NoEditor, [0000021CAB5CE700][0000021CAC054BC0 49] LinuxClient, [0000021CAB675400][0000021CAC058D40 49] LinuxAArch64Client, [0000021CAB5CE800][0000021CAC014E80 49] LinuxServer, [0000021CAB676F00][0000021CAC05CFC0 49] LinuxAArch64Server, [0000021CAB5CD700][0000021CAC061100 49] Android, [0000021CAB677D00][0000021CAC069280 49] Android_Low, [0000021CAB5CCB00][0000021CAC06D400 49] Android_Mid, [0000021CAB676200][0000021CAC071580 49] Android_High, [0000021CAB5CCC00][0000021CAC075700 49] Android_Default, [0000021CAB675300][0000021CAC079880 49] Android_Adreno4xx, [0000021CAB626300][0000021CAC07DA00 49] Android_Adreno5xx_Low, [0000021CAB611C00][0000021CAC081B80 49] Android_Adreno5xx, [0000021CAB626600][0000021CAC084180 49] Android_Adreno6xx, [0000021CAB612000][0000021CAC088300 49] Android_Adreno6xx_Vulkan, [0000021CAB624400][0000021CAC08C480 49] Android_Mali_T6xx, [0000021CAB610F00][0000021CAC090600 49] Android_Mali_T7xx, [0000021CAB625C00][0000021CAC094780 49] Android_Mali_T8xx, [0000021CAB611F00][0000021CAC098900 49] Android_Mali_G71, [0000021CAB626800][0000021CAC09CA80 49] Android_Mali_G72, [0000021CAB613300][0000021CAC0A0C00 49] Android_Mali_G72_Vulkan, [0000021CAB627E00][0000021CAC0A4D80 49] Android_Mali_G76, [0000021CAB612200][0000021CAC0A8F00 49] Android_Mali_G76_Vulkan, [0000021CAB625E00][0000021CAC065040 49] Android_Mali_G77, [0000021CAB610900][0000021CAC0AD180 49] Android_Mali_G77_Vulkan, [0000021CAB627F00][0000021CAC0B12C0 49] Android_Mali_G78, [0000021CAB611300][0000021CAC0B9440 49] Android_Mali_G78_Vulkan, [0000021CAB627400][0000021CAC0BD5C0 49] Android_Mali_G710, [0000021CAB613E00][0000021CAC0C1740 49] Android_Mali_G710_Vulkan, [0000021CAB624700][0000021CAC0C58C0 49] Android_Vulkan_SM5, [0000021CAB613F00][0000021CAC0C9A40 49] Android_PowerVR_G6xxx, [0000021CAB625F00][0000021CAC0CDBC0 49] Android_PowerVR_GT7xxx, [0000021CAB612B00][0000021CAC0D01C0 49] Android_PowerVR_GE8xxx, [0000021CAB627700][0000021CAC0D4340 49] Android_PowerVR_GM9xxx, [0000021CAB612800][0000021CAC0D84C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000021CAB625500][0000021CAC0DC640 49] Android_TegraK1, [0000021CAB611700][0000021CAC0F07C0 49] Android_Unknown_Vulkan, [0000021CAB626C00][0000021CAC0F4940 49] Lumin, [0000021CAB613D00][0000021CAC0F8AC0 49] Lumin_Desktop, [0000021CAB624E00][0000021CAC0FCC40 49] HoloLens, 
+[2024.05.07-20.15.56:048][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.05.07-20.15.56:048][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.05.07-20.15.56:048][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.05.07-20.15.56:048][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.05.07-20.15.56:048][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.05.07-20.15.56:061][  0]LogNetVersion: JellyHunt 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2506878787)
+[2024.05.07-20.15.56:266][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.05.07-20.15.56:300][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.05.07-20.15.56:303][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.05.07-20.15.56:303][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.05.07-20.15.56:303][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.05.07-20.15.56:460][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 37B9F46742C9A4C95C728BADB80875E9 | Instance: CD0DB39645E8FCDEACC8B184D41DC4F2 (LASTCHANCE-68752).
+[2024.05.07-20.15.56:534][  0]LogPython: Using Python 3.7.7
+[2024.05.07-20.15.56:808][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.05.07-20.15.56:811][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.05.07-20.15.56:865][  0]LogTemp: Warning: setup perception system
+[2024.05.07-20.15.56:865][  0]LogTemp: Warning: set up
+[2024.05.07-20.15.56:963][  0]SourceControl: Source control is disabled
+[2024.05.07-20.15.56:963][  0]SourceControl: Source control is disabled
+[2024.05.07-20.15.56:972][  0]SourceControl: Source control is disabled
+[2024.05.07-20.15.56:974][  0]LogUProjectInfo: Found projects:
+[2024.05.07-20.15.56:988][  0]SourceControl: Source control is disabled
+[2024.05.07-20.15.57:000][  0]SourceControl: Source control is disabled
+[2024.05.07-20.15.57:081][  0]LogOpenImageDenoise: OIDN starting up
+[2024.05.07-20.15.57:095][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.05.07-20.15.57:110][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.07-20.15.57:110][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.07-20.15.57:184][  0]LogCollectionManager: Loaded 0 collections in 0.001096 seconds
+[2024.05.07-20.15.57:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Collections/' took 0.00s
+[2024.05.07-20.15.57:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Developers/edgos/Collections/' took 0.00s
+[2024.05.07-20.15.57:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Collections/' took 0.00s
+[2024.05.07-20.15.57:198][  0]LogOcInput: OculusInput pre-init called
+[2024.05.07-20.15.57:333][  0]LogEngine: Initializing Engine...
+[2024.05.07-20.15.57:366][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.05.07-20.15.57:366][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.05.07-20.15.57:366][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.05.07-20.15.57:367][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.05.07-20.15.57:436][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.05.07-20.15.57:441][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.05.07-20.15.57:447][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.05.07-20.15.57:449][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.05.07-20.15.57:450][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.05.07-20.15.57:450][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.05.07-20.15.57:450][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.07-20.15.57:450][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-20.15.57:450][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-20.15.57:450][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-20.15.57:450][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-20.15.57:450][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.07-20.15.57:457][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.07-20.15.57:457][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.05.07-20.15.57:483][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.05.07-20.15.57:484][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-20.15.57:485][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-20.15.57:485][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-20.15.57:486][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.07-20.15.57:486][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.07-20.15.57:486][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.07-20.15.57:487][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.07-20.15.57:487][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.07-20.15.57:487][  0]LogInit: FAudioDevice initialized.
+[2024.05.07-20.15.57:487][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.05.07-20.15.57:487][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.05.07-20.15.57:525][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/edgos/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.05.07-20.15.57:525][  0]LogInit: Texture streaming: Enabled
+[2024.05.07-20.15.57:533][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.05.07-20.15.57:535][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.05.07-20.15.57:535][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.05.07-20.15.57:536][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.05.07-20.15.57:557][  0]LogInit: Transaction tracking system initialized
+[2024.05.07-20.15.57:570][  0]BlueprintLog: New page: Editor Load
+[2024.05.07-20.15.57:608][  0]LocalizationService: Localization service is disabled
+[2024.05.07-20.15.57:622][  0]TimingProfiler: Initialize
+[2024.05.07-20.15.57:622][  0]TimingProfiler: OnSessionChanged
+[2024.05.07-20.15.57:622][  0]LoadingProfiler: Initialize
+[2024.05.07-20.15.57:623][  0]LoadingProfiler: OnSessionChanged
+[2024.05.07-20.15.57:623][  0]NetworkingProfiler: Initialize
+[2024.05.07-20.15.57:623][  0]NetworkingProfiler: OnSessionChanged
+[2024.05.07-20.15.57:623][  0]MemoryProfiler: Initialize
+[2024.05.07-20.15.57:623][  0]MemoryProfiler: OnSessionChanged
+[2024.05.07-20.15.57:698][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.05.07-20.15.57:698][  0]LogCook: Display: Mobile HDR setting 1
+[2024.05.07-20.15.57:810][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/' took 0.01s
+[2024.05.07-20.15.57:904][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.05.07-20.15.57:906][  0]SourceControl: Source control is disabled
+[2024.05.07-20.15.57:906][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.971
+[2024.05.07-20.15.57:906][  0]Cmd: MAP LOAD FILE="../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.07-20.15.57:909][  0]LightingResults: New page: Lighting Build
+[2024.05.07-20.15.57:910][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.15.57:910][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.15.57:910][  0]MapCheck: New page: Map Check
+[2024.05.07-20.15.57:910][  0]LightingResults: New page: Lighting Build
+[2024.05.07-20.15.57:913][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-20.15.57:914][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.07-20.15.57:954][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2024.05.07-20.15.57:954][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2024.05.07-20.15.57:957][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.07-20.15.57:960][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.07-20.15.57:961][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.07-20.15.57:961][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2024.05.07-20.15.57:961][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.055
+[2024.05.07-20.15.57:962][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.027
+[2024.05.07-20.15.58:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.15.58:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.15.58:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.15.58:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.15.58:071][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0055 seconds. Added 3828 classes and 930 folders.
+[2024.05.07-20.15.58:072][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.05.07-20.15.58:078][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.05.07-20.15.58:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.07-20.15.58:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.05.07-20.15.58:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.05.07-20.15.58:087][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.05.07-20.15.58:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.05.07-20.15.58:087][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:087][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.05.07-20.15.58:087][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.05.07-20.15.58:091][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.05.07-20.15.58:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.05.07-20.15.58:091][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:091][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.05.07-20.15.58:091][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.05.07-20.15.58:095][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.07-20.15.58:095][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:095][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.07-20.15.58:095][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:095][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.05.07-20.15.58:095][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2024.05.07-20.15.58:099][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.05.07-20.15.58:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.05.07-20.15.58:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.05.07-20.15.58:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.05.07-20.15.58:103][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.05.07-20.15.58:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.05.07-20.15.58:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.05.07-20.15.58:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2024.05.07-20.15.58:106][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.05.07-20.15.58:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.05.07-20.15.58:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.05.07-20.15.58:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:110][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.05.07-20.15.58:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.05.07-20.15.58:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.05.07-20.15.58:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:114][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.05.07-20.15.58:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.05.07-20.15.58:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.05.07-20.15.58:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:118][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.05.07-20.15.58:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.05.07-20.15.58:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.05.07-20.15.58:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.05.07-20.15.58:121][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.05.07-20.15.58:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.05.07-20.15.58:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.05.07-20.15.58:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:125][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.05.07-20.15.58:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.05.07-20.15.58:125][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:125][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.05.07-20.15.58:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:128][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.07-20.15.58:128][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:128][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.07-20.15.58:128][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:128][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.05.07-20.15.58:128][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:133][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.05.07-20.15.58:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.05.07-20.15.58:133][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:133][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.05.07-20.15.58:133][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:136][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.05.07-20.15.58:136][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:136][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.05.07-20.15.58:136][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:136][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.05.07-20.15.58:136][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.05.07-20.15.58:140][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.05.07-20.15.58:140][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:140][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.07-20.15.58:140][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:140][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.05.07-20.15.58:140][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.05.07-20.15.58:143][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.05.07-20.15.58:143][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:143][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.05.07-20.15.58:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.05.07-20.15.58:143][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.05.07-20.15.58:146][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.05.07-20.15.58:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.05.07-20.15.58:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.05.07-20.15.58:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.05.07-20.15.58:150][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.07-20.15.58:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.07-20.15.58:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.05.07-20.15.58:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2024.05.07-20.15.58:155][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.07-20.15.58:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.07-20.15.58:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.05.07-20.15.58:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.05.07-20.15.58:160][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.05.07-20.15.58:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.07-20.15.58:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.05.07-20.15.58:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.05.07-20.15.58:165][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.05.07-20.15.58:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.05.07-20.15.58:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.05.07-20.15.58:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:168][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.05.07-20.15.58:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.05.07-20.15.58:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.05.07-20.15.58:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.05.07-20.15.58:172][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.05.07-20.15.58:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.05.07-20.15.58:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.05.07-20.15.58:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.05.07-20.15.58:175][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.07-20.15.58:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.07-20.15.58:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.05.07-20.15.58:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.05.07-20.15.58:179][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.05.07-20.15.58:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.07-20.15.58:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.05.07-20.15.58:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.07-20.15.58:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.05.07-20.15.58:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.05.07-20.15.58:254][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.05.07-20.15.58:255][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2024.05.07-20.15.58:288][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.07-20.15.58:293][  0]LogSlate: Took 0.003052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.07-20.15.58:293][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.07-20.15.58:296][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.07-20.15.58:420][  0]LogRenderer: Reallocating scene render targets to support 1120x600 Format 10 NumSamples 1 (Frame:1).
+[2024.05.07-20.15.58:452][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.07-20.15.58:484][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.05.07-20.15.58:484][  0]LogLoad: (Engine Initialization) Total time: 4.55 seconds
+[2024.05.07-20.15.58:484][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.05.07-20.15.58:514][  0]LogAssetRegistry: Asset discovery search completed in 2.6571 seconds
+[2024.05.07-20.15.58:517][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.05.07-20.15.58:519][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.05.07-20.15.58:526][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/' took 0.03s
+[2024.05.07-20.16.16:222][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.07-20.16.16:226][754]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.07-20.16.16:293][754]LogTemp: Warning: set up
+[2024.05.07-20.16.16:480][754]LogTemp: Warning: set up
+[2024.05.07-20.16.16:505][754]LogTemp: Warning: set up
+[2024.05.07-20.16.17:085][754]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Patricks_Room.Patricks_Room
+[2024.05.07-20.16.17:085][754]Cmd: MAP LOAD FILE="../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Maps/Patricks_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.07-20.16.17:085][754]LightingResults: New page: Lighting Build
+[2024.05.07-20.16.17:085][754]LoadErrors: New page: Loading map: Patricks_Room.umap
+[2024.05.07-20.16.17:114][754]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.16.17:114][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.16.17:114][754]MapCheck: New page: Map Check
+[2024.05.07-20.16.17:114][754]LightingResults: New page: Lighting Build
+[2024.05.07-20.16.17:123][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-20.16.17:125][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.07-20.16.17:125][754]LogAudio: Display: Audio Device (ID: 1) registered with world 'Patricks_Room'.
+[2024.05.07-20.16.17:139][754]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.07-20.16.17:139][754]LogAIModule: Creating AISystem for world Patricks_Room
+[2024.05.07-20.16.17:144][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.07-20.16.17:155][754]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.07-20.16.17:155][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.574ms to complete.
+[2024.05.07-20.16.17:155][754]LogFileHelpers: Loading map 'Patricks_Room' took 0.070
+[2024.05.07-20.16.19:417][  4]LogTemp: Warning: set up
+[2024.05.07-20.16.20:430][120]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Patricks_Room.Patricks_Room:PersistentLevel.Patricks_Room
+[2024.05.07-20.16.20:817][120]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2024.05.07-20.16.21:212][120]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.07-20.16.43:678][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.07-20.16.43:688][754]LogSavePackage: Moving '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/Patricks_RoomE98AE27A4838A296E3EDDFAA5FBB9F68.tmp' to '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Maps/Patricks_Room.umap'
+[2024.05.07-20.16.43:698][754]LogFileHelpers: Saving map 'Patricks_Room' took 0.032
+[2024.05.07-20.16.43:709][754]AssetCheck: New page: Asset Save: Patricks_Room
+[2024.05.07-20.16.43:709][754]LogContentValidation: Display: Validating World /Game/Maps/Patricks_Room.Patricks_Room
+[2024.05.07-20.16.55:940][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.05.07-20.16.56:122][ 55]LogTemp: Warning: set up
+[2024.05.07-20.16.56:273][ 56]LogSlate: Took 0.002851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.07-20.17.02:046][510]LogSlate: Window 'Delete Variable' being destroyed
+[2024.05.07-20.17.02:056][510]LogTemp: Warning: set up
+[2024.05.07-20.17.09:102][318]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.05.07-20.17.09:104][318]LogTemp: Warning: set up
+[2024.05.07-20.17.09:115][318]LogTemp: Warning: set up
+[2024.05.07-20.17.09:119][318]LogTemp: Warning: set up
+[2024.05.07-20.17.09:120][318]LogTemp: Warning: set up
+[2024.05.07-20.17.09:140][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.07-20.17.09:144][318]LogTemp: Warning: set up
+[2024.05.07-20.17.09:233][318]LogSavePackage: Moving '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/FirstPersonCharacterF2D8E9F64B606706FB53DB979818412B.tmp' to '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2024.05.07-20.17.09:243][318]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.05.07-20.17.09:243][318]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.05.07-20.17.21:266][710]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.05.07-20.17.21:268][710]LogTemp: Warning: set up
+[2024.05.07-20.17.21:279][710]LogTemp: Warning: set up
+[2024.05.07-20.17.21:284][710]LogTemp: Warning: set up
+[2024.05.07-20.17.21:285][710]LogTemp: Warning: set up
+[2024.05.07-20.17.21:307][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.07-20.17.21:311][710]LogTemp: Warning: set up
+[2024.05.07-20.17.21:399][710]LogSavePackage: Moving '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/FirstPersonCharacter4F9FAAAE4AC8202B110EF6880E0ED434.tmp' to '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2024.05.07-20.17.21:411][710]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.05.07-20.17.21:411][710]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.05.07-20.17.32:322][970]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.07-20.17.32:326][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-20.17.32:326][970]PIE: New page: PIE session: Patricks_Room (7 May 2024, 22:17:32)
+[2024.05.07-20.17.32:327][970]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.05.07-20.17.32:328][970]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.05.07-20.17.32:328][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.05.07-20.17.32:330][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002303s)
+[2024.05.07-20.17.32:331][970]LogAIModule: Creating AISystem for world Patricks_Room
+[2024.05.07-20.17.32:331][970]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2024.05.07-20.17.32:331][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Patricks_Room.Patricks_Room to /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room (0.002969s)
+[2024.05.07-20.17.32:344][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.07-20.17.32:344][970]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.07-20.17.32:345][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-20.17.32:345][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-20.17.32:345][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-20.17.32:345][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-20.17.32:345][970]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.07-20.17.32:347][970]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.07-20.17.32:347][970]LogAudioMixer: Display: 1: FrontRight
+[2024.05.07-20.17.32:356][970]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.05.07-20.17.32:356][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-20.17.32:356][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-20.17.32:356][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-20.17.32:357][970]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.07-20.17.32:357][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.07-20.17.32:357][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.07-20.17.32:357][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.07-20.17.32:357][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.07-20.17.32:357][970]LogInit: FAudioDevice initialized.
+[2024.05.07-20.17.32:357][970]LogAudio: Display: Audio Device (ID: 2) registered with world 'Patricks_Room'.
+[2024.05.07-20.17.32:364][970]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.05.07-20.17.32:365][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room up for play (max tick rate 0) at 2024.05.07-21.17.32
+[2024.05.07-20.17.32:366][970]LogWorld: Bringing up level for play took: 0.000597
+[2024.05.07-20.17.32:366][970]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.05.07-20.17.32:367][970]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2024.05.07-20.17.32:367][970]LogTemp: Warning: set up
+[2024.05.07-20.17.32:369][970]LogBlueprintUserMessages: [Patricks_Room_C_1] 0
+[2024.05.07-20.17.32:370][970]PIE: Server logged in
+[2024.05.07-20.17.32:371][970]PIE: Play in editor total start time 0.045 seconds.
+[2024.05.07-20.17.39:164][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.17.39:164][752]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.05.07-20.17.39:164][752]LogBlueprintUserMessages: [Patricks_Room_C_1] 0
+[2024.05.07-20.17.39:164][752]LogWorld: UWorld::CleanupWorld for Patricks_Room, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.17.39:164][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.17.39:174][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-20.17.39:176][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.17.39:195][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-20.17.39:197][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.07-20.17.39:198][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.07-20.17.39:200][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.17.39:209][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.05.07-20.17.39:235][754]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.05.07-20.18.49:103][303]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.07-20.18.58:715][345]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.05.07-20.18.58:718][345]LogTemp: Warning: set up
+[2024.05.07-20.18.58:730][345]LogTemp: Warning: set up
+[2024.05.07-20.18.58:735][345]LogTemp: Warning: set up
+[2024.05.07-20.18.58:736][345]LogTemp: Warning: set up
+[2024.05.07-20.18.58:762][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.07-20.18.58:769][345]LogTemp: Warning: set up
+[2024.05.07-20.18.58:874][345]LogSavePackage: Moving '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Saved/FirstPersonCharacter2ECE11894A5E021035DA0AB3AB7CEC79.tmp' to '../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2024.05.07-20.18.58:885][345]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.05.07-20.18.58:885][345]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.05.07-20.19.00:571][535]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.07-20.19.00:576][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-20.19.00:576][535]PIE: New page: PIE session: Patricks_Room (7 May 2024, 22:19:00)
+[2024.05.07-20.19.00:613][535]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.05.07-20.19.00:615][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002290s)
+[2024.05.07-20.19.00:615][535]LogAIModule: Creating AISystem for world Patricks_Room
+[2024.05.07-20.19.00:616][535]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2024.05.07-20.19.00:616][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Patricks_Room.Patricks_Room to /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room (0.002970s)
+[2024.05.07-20.19.00:631][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.05.07-20.19.00:631][535]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.07-20.19.00:631][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-20.19.00:631][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-20.19.00:631][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-20.19.00:631][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-20.19.00:631][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.07-20.19.00:631][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-20.19.00:631][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.07-20.19.00:631][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-20.19.00:632][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-20.19.00:632][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-20.19.00:632][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-20.19.00:632][535]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.07-20.19.00:633][535]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.07-20.19.00:633][535]LogAudioMixer: Display: 1: FrontRight
+[2024.05.07-20.19.00:643][535]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.05.07-20.19.00:643][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-20.19.00:643][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-20.19.00:643][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-20.19.00:643][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.07-20.19.00:643][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.07-20.19.00:643][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.07-20.19.00:644][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.07-20.19.00:644][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.07-20.19.00:644][535]LogInit: FAudioDevice initialized.
+[2024.05.07-20.19.00:644][535]LogAudio: Display: Audio Device (ID: 3) registered with world 'Patricks_Room'.
+[2024.05.07-20.19.00:649][535]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.05.07-20.19.00:650][535]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room up for play (max tick rate 0) at 2024.05.07-21.19.00
+[2024.05.07-20.19.00:650][535]LogWorld: Bringing up level for play took: 0.000613
+[2024.05.07-20.19.00:650][535]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2024.05.07-20.19.00:651][535]LogTemp: Warning: set up
+[2024.05.07-20.19.00:652][535]LogBlueprintUserMessages: [Patricks_Room_C_1] 0
+[2024.05.07-20.19.00:652][535]PIE: Server logged in
+[2024.05.07-20.19.00:653][535]PIE: Play in editor total start time 0.078 seconds.
+[2024.05.07-20.19.01:234][603]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.02:421][741]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.02:796][786]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.03:929][922]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.04:162][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.04:403][979]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.04:695][ 14]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.05:004][ 51]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2024.05.07-20.19.07:713][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.19.07:713][367]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.05.07-20.19.07:713][367]LogBlueprintUserMessages: [Patricks_Room_C_1] 0
+[2024.05.07-20.19.07:713][367]LogWorld: UWorld::CleanupWorld for Patricks_Room, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.19.07:714][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.19.07:721][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-20.19.07:723][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.19.07:737][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-20.19.07:737][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.07-20.19.07:738][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.07-20.19.07:740][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-20.19.07:741][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.07-20.19.07:783][371]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.05.07-20.19.37:198][662]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WB_PauseMenu.WB_PauseMenu
+[2024.05.07-20.19.51:942][333]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.19.51:942][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.19.51:948][333]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.19.51:948][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.19.54:923][675]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/MAIN_MENU.MAIN_MENU
+[2024.05.07-20.20.08:166][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.05.07-20.20.08:183][190]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenuLevel.MainMenuLevel
+[2024.05.07-20.20.08:183][190]Cmd: MAP LOAD FILE="../../../../../../Users/edgos/Documents/GitHub/Jelly-Hunt/JellyHunt/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.07-20.20.08:183][190]LightingResults: New page: Lighting Build
+[2024.05.07-20.20.08:183][190]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2024.05.07-20.20.08:190][190]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.20.08:190][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.20.08:209][190]LogWorld: UWorld::CleanupWorld for Patricks_Room, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.20.08:209][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.20.08:209][190]MapCheck: New page: Map Check
+[2024.05.07-20.20.08:209][190]LightingResults: New page: Lighting Build
+[2024.05.07-20.20.08:221][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-20.20.08:240][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.05.07-20.20.08:240][190]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2024.05.07-20.20.08:251][190]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.07-20.20.08:251][190]LogAIModule: Creating AISystem for world MainMenuLevel
+[2024.05.07-20.20.08:266][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.07-20.20.08:276][190]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.07-20.20.08:277][190]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2024.05.07-20.20.08:277][190]LogFileHelpers: Loading map 'MainMenuLevel' took 0.093
+[2024.05.07-20.20.09:221][289]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.07-20.20.09:225][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-20.20.09:225][289]PIE: New page: PIE session: MainMenuLevel (7 May 2024, 22:20:09)
+[2024.05.07-20.20.09:262][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuLevel
+[2024.05.07-20.20.09:263][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000820s)
+[2024.05.07-20.20.09:264][289]LogAIModule: Creating AISystem for world MainMenuLevel
+[2024.05.07-20.20.09:264][289]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2024.05.07-20.20.09:264][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuLevel.MainMenuLevel to /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001813s)
+[2024.05.07-20.20.09:279][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.07-20.20.09:279][289]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.07-20.20.09:279][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-20.20.09:279][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-20.20.09:279][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-20.20.09:279][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-20.20.09:279][289]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.07-20.20.09:282][289]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.07-20.20.09:282][289]LogAudioMixer: Display: 1: FrontRight
+[2024.05.07-20.20.09:290][289]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.05.07-20.20.09:290][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-20.20.09:290][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-20.20.09:290][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-20.20.09:290][289]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.07-20.20.09:290][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.07-20.20.09:290][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.07-20.20.09:290][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.07-20.20.09:292][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.07-20.20.09:292][289]LogInit: FAudioDevice initialized.
+[2024.05.07-20.20.09:292][289]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2024.05.07-20.20.09:296][289]LogLoad: Game class is 'MenuGamemode_C'
+[2024.05.07-20.20.09:297][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2024.05.07-21.20.09
+[2024.05.07-20.20.09:297][289]LogWorld: Bringing up level for play took: 0.000178
+[2024.05.07-20.20.09:297][289]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2024.05.07-20.20.09:298][289]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.07-20.20.09:298][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.07-20.20.09:298][289]PIE: Server logged in
+[2024.05.07-20.20.09:298][289]PIE: Play in editor total start time 0.074 seconds.
+[2024.05.07-20.20.10:148][390]LogBlueprintUserMessages: [MAIN_MENU_C_0] 4
+[2024.05.07-20.20.10:148][390]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.07-20.20.10:148][390]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.07-20.20.10:149][390]LogNet: Browse: /Game/Maps/Patricks_Room
+[2024.05.07-20.20.10:149][390]LogLoad: LoadMap: /Game/Maps/Patricks_Room
+[2024.05.07-20.20.10:149][390]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuLevel
+[2024.05.07-20.20.10:149][390]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.20.10:149][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.20.10:206][390]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-20.20.10:208][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.07-20.20.10:214][390]LogAudio: Display: Audio Device (ID: 4) registered with world 'Patricks_Room'.
+[2024.05.07-20.20.10:214][390]LogAIModule: Creating AISystem for world Patricks_Room
+[2024.05.07-20.20.10:214][390]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.05.07-20.20.10:216][390]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Patricks_Room.Patricks_Room up for play (max tick rate 0) at 2024.05.07-21.20.10
+[2024.05.07-20.20.10:217][390]LogWorld: Bringing up level for play took: 0.001536
+[2024.05.07-20.20.10:217][390]LogTemp: Warning: set up
+[2024.05.07-20.20.10:218][390]LogBlueprintUserMessages: [Patricks_Room_C_1] 4
+[2024.05.07-20.20.10:218][390]LogLoad: Took 0.069160 seconds to LoadMap(/Game/Maps/Patricks_Room)
+[2024.05.07-20.20.11:856][582]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2024.05.07-20.20.12:640][676]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2024.05.07-20.20.13:657][798]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2024.05.07-20.20.14:765][931]LogNet: Browse: /Game/Maps/JellyGrounds?Slot1
+[2024.05.07-20.20.14:765][931]LogLoad: LoadMap: /Game/Maps/JellyGrounds?Slot1
+[2024.05.07-20.20.14:765][931]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Patricks_Room
+[2024.05.07-20.20.14:765][931]LogBlueprintUserMessages: [Patricks_Room_C_1] 4
+[2024.05.07-20.20.14:765][931]LogWorld: UWorld::CleanupWorld for Patricks_Room, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.20.14:766][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.20.14:806][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-20.20.14:808][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.07-20.20.16:023][931]LogAudio: Display: Audio Device (ID: 4) registered with world 'JellyGrounds'.
+[2024.05.07-20.20.16:023][931]LogAIModule: Creating AISystem for world JellyGrounds
+[2024.05.07-20.20.16:023][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.05.07-20.20.16:030][931]LogMaterial: Warning: M_Grass_Master: Requesting an invalid TextureIndex! (4294967295 / 6)
+[2024.05.07-20.20.16:030][931]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds up for play (max tick rate 0) at 2024.05.07-21.20.16
+[2024.05.07-20.20.16:030][931]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_JellyGrounds.JellyGrounds:PersistentLevel.Sandy_NPC_2 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2024.05.07-20.20.16:030][931]LogTemp: Warning: setup perception system
+[2024.05.07-20.20.16:030][931]LogWorld: Bringing up level for play took: 0.007667
+[2024.05.07-20.20.16:032][931]LogTemp: Warning: set up
+[2024.05.07-20.20.16:033][931]LogTemp: Warning: ca
+[2024.05.07-20.20.16:033][931]LogBlueprintUserMessages: [MyplayerLocPawn_4] X=9,335.647 Y=-5,650.963 Z=624.987
+[2024.05.07-20.20.16:033][931]LogBlueprintUserMessages: [JellyGrounds_C_4] 4
+[2024.05.07-20.20.16:034][931]LogLoad: Took 1.268541 seconds to LoadMap(/Game/Maps/JellyGrounds)
+[2024.05.07-20.20.16:034][931]LogOutputDevice: Warning: 
+
+Script Stack (3 frames):
+BPEnemyManager_C.SpawnEnemy
+BPEnemyManager_C.ExecuteUbergraph_BPEnemyManager
+BPEnemyManager_C.ReceiveTick
+
+[2024.05.07-20.20.16:059][931]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.025 s
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: === Handled ensure: ===
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: 
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: Ensure condition failed: AsAIController [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/AIModule/Private/Navigation/NavFilter_AIControllerDefault.cpp] [Line: 18]
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: 
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: Stack: 
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb212c5f78 UE4Editor-AIModule.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb211f3ad2 UE4Editor-AIModule.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb62ffe11a UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb62ffe4b7 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb63005f23 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb630a8cb5 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b56be99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b56e228 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b544d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b51341a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b54497c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b544d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b51341a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b54497c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b544d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b544184 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b2619c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb5b543ca3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb058e942a UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb06cd3a4a UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb0590031b UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb059004da UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb058cc06e UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb06ae410e UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb06aed2e4 UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb84eb2398 UE4Editor-Core.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb84eb27ce UE4Editor-Core.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb84ec40bd UE4Editor-Core.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb06b093be UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb06b0faba UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb061f349f UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb061fe2fc UE4Editor-Engine.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb54a714c3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffb55372ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ff6a39e87a0 UE4Editor.exe!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ff6a3a00fcc UE4Editor.exe!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ff6a3a010ba UE4Editor.exe!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ff6a3a040dd UE4Editor.exe!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ff6a3a15984 UE4Editor.exe!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ff6a3a1853a UE4Editor.exe!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffbe012257d KERNEL32.DLL!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: [Callstack] 0x00007ffbe142aa48 ntdll.dll!UnknownFunction []
+[2024.05.07-20.20.16:059][931]LogOutputDevice: Error: 

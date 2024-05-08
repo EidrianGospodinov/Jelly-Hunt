@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt
-/I C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source
+/I C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt
+/I C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt\FindRandomLocation.cpp"
-/FI"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h"
-/Fo"C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\FindRandomLocation.cpp.obj"
+/FI"C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\JellyHuntEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Source\JellyHunt\FindRandomLocation.cpp"
+/FI"C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h"
+/Fo"C:\Users\Lelinho\Documents\GitHub\Jelly-Hunt\JellyHunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\FindRandomLocation.cpp.obj"
 /TP
 /GR-
 /W4

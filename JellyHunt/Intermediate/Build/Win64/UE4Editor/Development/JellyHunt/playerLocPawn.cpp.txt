@@ -1,3 +1,3 @@
-D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
-D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Source\JellyHunt\playerLocPawn.h
-D:\Uni\Year 2\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\playerLocPawn.generated.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt\playerLocPawn.h
+C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\playerLocPawn.generated.h

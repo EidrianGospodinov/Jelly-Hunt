@@ -1,5 +1,5 @@
-C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Source\JellyHunt/playerLocPawn.h
-C:\Users\edgos\Documents\GitHub\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\playerLocPawn.generated.h
+D:\Game Jams\Ukie GameJam\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Development\JellyHunt\Definitions.JellyHunt.h
+D:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game Jams\Ukie GameJam\Jelly-Hunt\JellyHunt\Source\JellyHunt/playerLocPawn.h
+D:\Game Jams\Ukie GameJam\Jelly-Hunt\JellyHunt\Intermediate\Build\Win64\UE4Editor\Inc\JellyHunt\playerLocPawn.generated.h
